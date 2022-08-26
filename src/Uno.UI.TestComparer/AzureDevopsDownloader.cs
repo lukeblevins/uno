@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
+using System.IO.Compression;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -13,8 +14,6 @@ using Microsoft.VisualStudio.Services.Common;
 using Microsoft.VisualStudio.Services.WebApi;
 using Newtonsoft.Json;
 using Refit;
-using SharpCompress.Archives;
-using SharpCompress.Archives.Zip;
 
 namespace Uno.UI.TestComparer
 {
@@ -89,47 +88,40 @@ namespace Uno.UI.TestComparer
 					if (artifacts.Any(a => a.Name == artifactName))
 					{
 						Log($"Getting artifact for build {build.Id}");
-						using (var zipStream = await client.GetArtifactContentZipAsync(project, build.Id, artifactName))
+						using (var stream = await client.GetArtifactContentZipAsync(project, build.Id, artifactName))
 						{
-							Log($"Extracting stream artifact for build {build.Id}");
-
-							fullPath = fullPath.Replace("\\\\", "\\");
-
-							using (var archive = ZipArchive.Open(zipStream))
+							using (var f = File.OpenWrite(tempFile))
 							{
-								int entryIndex = 0;
-								var entriesCount = archive.Entries;
-
-								foreach (var entry in archive.Entries)
-								{
-									if ((entryIndex++ % 100) == 0)
-									{
-										Log($"Extracting {entryIndex}/{entriesCount}");
-									}
-
-									entry.WriteToDirectory(fullPath);
-
-									//var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
-
-									//if (outPath.EndsWith("\\"))
-									//{
-									//	Directory.CreateDirectory(@"\\?\" + outPath);
-									//}
-									//else
-									//{
-									//	using (var stream = entry.Open())
-									//	{
-									//		using (var outStream = File.OpenWrite(@"\\?\" + outPath))
-									//		{
-									//			await stream.CopyToAsync(outStream);
-									//		}
-									//	}
-									//}
-								}
+								await stream.CopyToAsync(f);
 							}
 						}
 
+						Log($"Extracting artifact for build {build.Id}");
 
+						fullPath = fullPath.Replace("\\\\", "\\");
+
+						using (var archive = ZipFile.OpenRead(tempFile))
+						{
+							foreach (var entry in archive.Entries)
+							{
+								var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
+
+								if (outPath.EndsWith("\\"))
+								{
+									Directory.CreateDirectory(@"\\?\" + outPath);
+								}
+								else
+								{
+									using (var stream = entry.Open())
+									{
+										using (var outStream = File.OpenWrite(@"\\?\" + outPath))
+										{
+											await stream.CopyToAsync(outStream);
+										}
+									}
+								}
+							}
+						}
 					}
 					else
 					{
