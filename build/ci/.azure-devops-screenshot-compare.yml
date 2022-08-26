@@ -27,6 +27,10 @@ jobs:
 
   variables:
     COMPARE_WORKDIR: $(Build.SourcesDirectory)\snapshot-compare
+
+    # This is required to be able to use hard links as much as possible
+    NUGET_PACKAGES: $(Agent.WorkFolder)\.nuget
+
     restore_build_id: 52862 # $(Build.BuildId)
 
   steps:
@@ -34,10 +38,9 @@ jobs:
     clean: true
     fetchDepth: 1 # Fetch only one commit
 
-  - task: NuGetToolInstaller@0
-    inputs:
-      versionSpec: 4.9.1
-      checkLatest: false
+  - template: templates/nuget-cache.yml
+    parameters:
+      nugetPackages: $(NUGET_PACKAGES)
 
   - task: MSBuild@1
     inputs:
