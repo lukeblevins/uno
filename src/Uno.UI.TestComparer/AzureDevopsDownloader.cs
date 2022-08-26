@@ -88,40 +88,47 @@ namespace Uno.UI.TestComparer
 					if (artifacts.Any(a => a.Name == artifactName))
 					{
 						Log($"Getting artifact for build {build.Id}");
-						using (var stream = await client.GetArtifactContentZipAsync(project, build.Id, artifactName))
+						using (var zipStream = await client.GetArtifactContentZipAsync(project, build.Id, artifactName))
 						{
-							using (var f = File.OpenWrite(tempFile))
+							Log($"Extracting stream artifact for build {build.Id}");
+
+							fullPath = fullPath.Replace("\\\\", "\\");
+
+							using (var archive = new ZipArchive(zipStream, ZipArchiveMode.Read, false))
 							{
-								await stream.CopyToAsync(f);
-							}
-						}
+								int entryIndex = 0;
+								var entriesCount = archive.Entries;
 
-						Log($"Extracting artifact for build {build.Id}");
-
-						fullPath = fullPath.Replace("\\\\", "\\");
-
-						using (var archive = ZipFile.OpenRead(tempFile))
-						{
-							foreach (var entry in archive.Entries)
-							{
-								var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
-
-								if (outPath.EndsWith("\\"))
+								foreach (var entry in archive.Entries)
 								{
-									Directory.CreateDirectory(@"\\?\" + outPath);
-								}
-								else
-								{
-									using (var stream = entry.Open())
+									entryIndex++;
+
+									if ((entryIndex % 100) == 0)
 									{
-										using (var outStream = File.OpenWrite(@"\\?\" + outPath))
+										Log($"Extracting {entryIndex}/entriesCount");
+									}
+
+									var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
+
+									if (outPath.EndsWith("\\"))
+									{
+										Directory.CreateDirectory(@"\\?\" + outPath);
+									}
+									else
+									{
+										using (var stream = entry.Open())
 										{
-											await stream.CopyToAsync(outStream);
+											using (var outStream = File.OpenWrite(@"\\?\" + outPath))
+											{
+												await stream.CopyToAsync(outStream);
+											}
 										}
 									}
 								}
 							}
 						}
+
+
 					}
 					else
 					{
