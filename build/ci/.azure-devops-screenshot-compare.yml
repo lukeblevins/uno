@@ -5,19 +5,19 @@ jobs:
 
 - job: UITests_Screenshots_Compare
   displayName: 'UI Tests Screenshots Comparison'
-  dependsOn:
-    - Wasm_UITests_Snap
-    - Wasm_UITests_Automated
-    - Android_Tests
-    - Skia_Gtk_Screenshot_Tests
-    - iOS_Automated_Tests_Group_01
-    - iOS_Automated_Tests_Group_02
-    - iOS_Automated_Tests_Group_03
-    - iOS_Snapshot_Tests_Group_01
-    - iOS_Snapshot_Tests_Group_02
-    - iOS_Snapshot_Tests_Group_03
-    - iOS_Snapshot_Tests_Group_04
-    - macOS_Screenshot_Tests
+  #dependsOn:
+  #  - Wasm_UITests_Snap
+  #  - Wasm_UITests_Automated
+  #  - Android_Tests
+  #  - Skia_Gtk_Screenshot_Tests
+  #  - iOS_Automated_Tests_Group_01
+  #  - iOS_Automated_Tests_Group_02
+  #  - iOS_Automated_Tests_Group_03
+  #  - iOS_Snapshot_Tests_Group_01
+  #  - iOS_Snapshot_Tests_Group_02
+  #  - iOS_Snapshot_Tests_Group_03
+  #  - iOS_Snapshot_Tests_Group_04
+  #  - macOS_Screenshot_Tests
 
   condition: or(succeeded(), and(failed(), ge(variables['System.StageAttempt'], 5)))
 
@@ -27,6 +27,7 @@ jobs:
 
   variables:
     COMPARE_WORKDIR: $(Build.SourcesDirectory)\snapshot-compare
+    restore_build_id: 52862 # $(Build.BuildId)
 
   steps:
   - checkout: self
@@ -51,7 +52,7 @@ jobs:
       createLogFile: false
 
   - script: |
-      src\Uno.UI.TestComparer\bin\Release\Uno.UI.TestComparer.exe "azdo" --pat="$(UITestsCompare_PAT)" --base-path="$(COMPARE_WORKDIR)" --source-branch="%GIT_SOURCEBRANCH%" --target-branch="%GIT_TARGETBRANCH%" --artifact-name="uitests-results" --artifact-inner-path="uitests-results\screenshots" --definition-name="$(Build.DefinitionName)" --project-name="$(System.TeamProject)" --server-uri="$(System.TeamFoundationCollectionUri)" --current-build="$(Build.BuildId)" --run-limit="2" --github-pat="$(CommentsGitHubPAT)" --source-repository="$(system.pullRequest.sourceRepositoryUri)" --github-pr-id="$(system.pullRequest.pullRequestNumber)"
+      src\Uno.UI.TestComparer\bin\Release\Uno.UI.TestComparer.exe "azdo" --pat="$(UITestsCompare_PAT)" --base-path="$(COMPARE_WORKDIR)" --source-branch="%GIT_SOURCEBRANCH%" --target-branch="%GIT_TARGETBRANCH%" --artifact-name="uitests-results" --artifact-inner-path="uitests-results\screenshots" --definition-name="$(Build.DefinitionName)" --project-name="$(System.TeamProject)" --server-uri="$(System.TeamFoundationCollectionUri)" --current-build="$(restore_build_id)" --run-limit="2" --github-pat="$(CommentsGitHubPAT)" --source-repository="$(system.pullRequest.sourceRepositoryUri)" --github-pr-id="$(system.pullRequest.pullRequestNumber)"
 
     env:
       GIT_TARGETBRANCH: "$(System.PullRequest.TargetBranch)"
@@ -60,13 +61,13 @@ jobs:
     displayName: 'Compare UI Tests screenshots'
     condition: eq(variables['Build.Repository.Provider'], 'GitHub')
 
-  - task: PublishTestResults@2
-    condition: always()
-    inputs:
-      testResultsFiles: '$(COMPARE_WORKDIR)\*.xml'
-      testRunTitle: 'Screenshots Compare Test Run'
-      testResultsFormat: 'NUnit'
-      failTaskOnFailedTests: false
+  #- task: PublishTestResults@2
+  #  condition: always()
+  #  inputs:
+  #    testResultsFiles: '$(COMPARE_WORKDIR)\*.xml'
+  #    testRunTitle: 'Screenshots Compare Test Run'
+  #    testResultsFormat: 'NUnit'
+  #    failTaskOnFailedTests: false
 
   - task: ArchiveFiles@2
     inputs:
