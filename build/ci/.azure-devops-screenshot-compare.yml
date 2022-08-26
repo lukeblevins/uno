@@ -32,6 +32,7 @@ jobs:
   steps:
   - checkout: self
     clean: true
+    fetchDepth: 1 # Fetch only one commit
 
   - task: NuGetToolInstaller@0
     inputs:
