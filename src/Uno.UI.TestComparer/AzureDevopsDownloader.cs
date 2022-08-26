@@ -2,7 +2,6 @@
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
-using System.IO.Compression;
 using System.Linq;
 using System.Net.Http;
 using System.Net.Http.Headers;
@@ -14,6 +13,8 @@ using Microsoft.VisualStudio.Services.Common;
 using Microsoft.VisualStudio.Services.WebApi;
 using Newtonsoft.Json;
 using Refit;
+using SharpCompress.Archives;
+using SharpCompress.Archives.Zip;
 
 namespace Uno.UI.TestComparer
 {
@@ -94,7 +95,7 @@ namespace Uno.UI.TestComparer
 
 							fullPath = fullPath.Replace("\\\\", "\\");
 
-							using (var archive = new ZipArchive(zipStream, ZipArchiveMode.Read, false))
+							using (var archive = ZipArchive.Open(zipStream))
 							{
 								int entryIndex = 0;
 								var entriesCount = archive.Entries;
@@ -103,25 +104,27 @@ namespace Uno.UI.TestComparer
 								{
 									if ((entryIndex++ % 100) == 0)
 									{
-										Log($"Extracting {entryIndex}/entriesCount");
+										Log($"Extracting {entryIndex}/{entriesCount}");
 									}
 
-									var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
+									entry.WriteToDirectory(fullPath);
 
-									if (outPath.EndsWith("\\"))
-									{
-										Directory.CreateDirectory(@"\\?\" + outPath);
-									}
-									else
-									{
-										using (var stream = entry.Open())
-										{
-											using (var outStream = File.OpenWrite(@"\\?\" + outPath))
-											{
-												await stream.CopyToAsync(outStream);
-											}
-										}
-									}
+									//var outPath = Path.Combine(fullPath, entry.FullName.Replace("/", "\\"));
+
+									//if (outPath.EndsWith("\\"))
+									//{
+									//	Directory.CreateDirectory(@"\\?\" + outPath);
+									//}
+									//else
+									//{
+									//	using (var stream = entry.Open())
+									//	{
+									//		using (var outStream = File.OpenWrite(@"\\?\" + outPath))
+									//		{
+									//			await stream.CopyToAsync(outStream);
+									//		}
+									//	}
+									//}
 								}
 							}
 						}
