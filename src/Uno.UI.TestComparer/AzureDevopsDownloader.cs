@@ -101,9 +101,7 @@ namespace Uno.UI.TestComparer
 
 								foreach (var entry in archive.Entries)
 								{
-									entryIndex++;
-
-									if ((entryIndex % 100) == 0)
+									if ((entryIndex++ % 100) == 0)
 									{
 										Log($"Extracting {entryIndex}/entriesCount");
 									}
