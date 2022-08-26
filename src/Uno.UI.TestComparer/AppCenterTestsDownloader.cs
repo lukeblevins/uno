@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Net;
@@ -15,17 +16,19 @@ namespace Uno.UI.TestComparer
     public class AppCenterTestsDownloader
     {
 		private string _secret;
+		private Stopwatch _stopwatch;
 
 		public AppCenterTestsDownloader(string secret)
 		{
 			_secret = secret;
+			_stopwatch = Stopwatch.StartNew();
 		}
 
         public async Task Download(string testCloudApiKey, string basePath, int runLimit)
         {
             System.Net.ServicePointManager.DefaultConnectionLimit = 40;
 
-            Console.WriteLine($"Downloading {runLimit} test results from testcloud to [{basePath}]");
+            Log($"Downloading {runLimit} test results from testcloud to [{basePath}]");
 
             var appCenterApi = RestService.For<IAppCenterApi>(
                 hostUrl: "https://api.appcenter.ms",
@@ -35,13 +38,13 @@ namespace Uno.UI.TestComparer
                 }
             );
 
-            Console.WriteLine($"Getting apps...");
+			Log($"Getting apps...");
             var apps = await appCenterApi.GetApps("nventive");
             var unoApps = apps.Where(a => a.DisplayName == "Uno.UI Samples");
 
             foreach (var app in unoApps)
             {
-                Console.WriteLine($"Getting runs for {app.DisplayName}...");
+				Log($"Getting runs for {app.DisplayName}...");
                 var runs = await appCenterApi.GetTestRuns(app.Owner.Name, app.Name);
 
                 var validRuns = runs
@@ -53,7 +56,7 @@ namespace Uno.UI.TestComparer
 
                 foreach (var run in validRuns.Select((v, i) => new { Index = i, Value = v }))
                 {
-                    Console.WriteLine($"Getting run {run.Index + 1} of {validRuns.Count()} for {run.Value.Platform} at {run.Value.Date}...");
+					Log($"Getting run {run.Index + 1} of {validRuns.Count()} for {run.Value.Platform} at {run.Value.Date}...");
 
                     var runName = $"{run.Value.Date:yyyyMMdd-hhmmss}-{run.Value.Id}";
                     var fullPath = Path.Combine(basePath, run.Value.Platform, runName);
@@ -68,7 +71,12 @@ namespace Uno.UI.TestComparer
             }
         }
 
-        private async Task DownloadRun(IAppCenterApi appCenterApi, string ownerName, string appName, string runId, string outputPath)
+		private void Log(string v)
+		{
+			Console.WriteLine($"[{_stopwatch}]" + v);
+		}
+
+		private async Task DownloadRun(IAppCenterApi appCenterApi, string ownerName, string appName, string runId, string outputPath)
 		{
 			try
 			{
@@ -111,32 +119,32 @@ namespace Uno.UI.TestComparer
                                         string fileName = outputPath + "\\" + name.Replace(" ", "_") + ".png";
                                         if (!File.Exists(fileName))
                                         {
-                                            Console.WriteLine($"Downloading ({tries} try) for {name}");
+											Log($"Downloading ({tries} try) for {name}");
                                             new WebClient().DownloadFile(shot, fileName);
                                         }
                                         else
                                         {
-                                            Console.WriteLine($"Skipping existing {name}");
+											Log($"Skipping existing {name}");
                                         }
                                         return;
 									}
 									catch (Exception e)
 									{
-                                        Console.WriteLine($"Retrying in 1s... {e.Message}");
+										Log($"Retrying in 1s... {e.Message}");
                                         Thread.Sleep(1000);
 									}
 								}
 							}
 							else
 							{
-                                Console.WriteLine($"Skipping missing screenshot for {name}");
+								Log($"Skipping missing screenshot for {name}");
 							}
 						});
 				}
 			}
 			catch(Exception e)
 			{
-                Console.WriteLine($"Run download failed ({e.Message})");
+				Log($"Run download failed ({e.Message})");
 			}
 		}
 
@@ -161,7 +169,7 @@ namespace Uno.UI.TestComparer
 				}
 				catch (WebException e)
 				{
-					Console.WriteLine($"Retrying in 1s (2) {e.Message}");
+					Log($"Retrying in 1s (2) {e.Message}");
 					await Task.Delay(1000);
 				}
 			} while (tries-- > 0);
