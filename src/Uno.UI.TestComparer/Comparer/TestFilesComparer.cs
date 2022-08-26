@@ -20,6 +20,11 @@ namespace Uno.UI.TestComparer.Comparer
 			_platform = platform;
 		}
 
+		public TestFilesComparer(string basePath, string artifactsBasePath, string artifactsInnerBasePath, string platform, Action<string> log) : this(basePath, artifactsBasePath, artifactsInnerBasePath, platform)
+		{
+			_log = log;
+		}
+
 		internal CompareResult Compare(string[] artifacts)
 		{
 			var testResult = new CompareResult(_platform);
@@ -57,7 +62,7 @@ namespace Uno.UI.TestComparer.Comparer
 						Files = files.AsParallel().ToArray(),
 					};
 
-			var allFolders = LogForeach(q, i => Console.WriteLine($"Processed {i.Path}")).ToArray();
+			var allFolders = LogForeach(q, i => _log($"Processed {i.Path}")).ToArray();
 
 			testResult.Folders.AddRange(allFolders.Select((p, index) => (index, p.Path)).AsParallel());
 
@@ -206,6 +211,7 @@ namespace Uno.UI.TestComparer.Comparer
 		}
 
 		private Dictionary<string, int> _fileHashesTable = new Dictionary<string, int>();
+		private Action<string> _log;
 		private readonly string _basePath;
 		private readonly string _artifactsBasePath;
 		private readonly string _artifactsInnerBasePath;

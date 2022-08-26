@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.Globalization;
 using System.IO;
 using System.Linq;
@@ -18,6 +19,11 @@ namespace Umbrella.UI.TestComparer
 {
 	class Program
 	{
+		private static Stopwatch _stopwatch = Stopwatch.StartNew();
+
+		private static void Log(string message)
+			=> Console.WriteLine($"[{_stopwatch.Elapsed}]" + message);
+
 		static async Task Main(string[] args)
 		{
 			if (args[0] == "appcenter")
@@ -82,7 +88,7 @@ namespace Umbrella.UI.TestComparer
 
 				var targetBranch = !string.IsNullOrEmpty(targetBranchParam) && targetBranchParam != "$(System.PullRequest.TargetBranch)" ? targetBranchParam : sourceBranch;      	
 
-				var downloader = new AzureDevopsDownloader(pat, serverUri);
+				var downloader = new AzureDevopsDownloader(pat, serverUri, Log);
 				var artifacts = await downloader.DownloadArtifacts(basePath, projectName, definitionName, artifactName, sourceBranch, targetBranch, currentBuild, runLimit);
 
 				var artifactsBasePath = Path.Combine(basePath, "artifacts");
@@ -233,7 +239,7 @@ namespace Umbrella.UI.TestComparer
 
 		private static CompareResult ProcessFiles(string basePath, string artifactsBasePath, string[] artifacts, string artifactsInnerBasePath, string platform, string buildId)
 		{
-			var result = new TestFilesComparer(basePath, artifactsBasePath, artifactsInnerBasePath, platform).Compare(artifacts);
+			var result = new TestFilesComparer(basePath, artifactsBasePath, artifactsInnerBasePath, platform, Log).Compare(artifacts);
 
 			GenerateHTMLResults(basePath, platform, result);
 			GenerateNUnitTestResults(basePath, platform, result, buildId);

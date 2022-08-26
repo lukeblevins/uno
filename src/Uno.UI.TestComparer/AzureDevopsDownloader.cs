@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Diagnostics;
 using System.IO;
 using System.IO.Compression;
 using System.Linq;
@@ -19,13 +20,17 @@ namespace Uno.UI.TestComparer
 	class AzureDevopsDownloader
 	{
 		private readonly string _pat;
+		private readonly Action<string> _log;
 		private readonly string _collectionUri;
 
-		public AzureDevopsDownloader(string pat, string collectionUri)
+		public AzureDevopsDownloader(string pat, string collectionUri, Action<string> log)
 		{
 			_pat = pat;
+			_log = log;
 			_collectionUri = collectionUri;
 		}
+
+		private void Log(string message) => _log(message);
 
 		public async Task<string[]> DownloadArtifacts(string basePath,
 									  string project,
@@ -47,10 +52,10 @@ namespace Uno.UI.TestComparer
 				targetBranchName = "refs/heads/" + targetBranchName;
 			}
 
-			Console.WriteLine($"Getting definitions ({basePath}, {project}, {definitionName}, {artifactName}, {sourceBranch}, {targetBranchName}, {buildId}, {runLimit})");
+			Log($"Getting definitions ({basePath}, {project}, {definitionName}, {artifactName}, {sourceBranch}, {targetBranchName}, {buildId}, {runLimit})");
 			var definitions = await client.GetDefinitionsAsync(project, name: definitionName);
 
-			Console.WriteLine("Getting builds");
+			Log("Getting builds");
 			var builds = await client.GetBuildsAsync(
 				project,
 				definitions: new[] { definitions.First().Id },
@@ -82,7 +87,7 @@ namespace Uno.UI.TestComparer
 
 					if (artifacts.Any(a => a.Name == artifactName))
 					{
-						Console.WriteLine($"Getting artifact for build {build.Id}");
+						Log($"Getting artifact for build {build.Id}");
 						using (var stream = await client.GetArtifactContentZipAsync(project, build.Id, artifactName))
 						{
 							using (var f = File.OpenWrite(tempFile))
@@ -91,7 +96,7 @@ namespace Uno.UI.TestComparer
 							}
 						}
 
-						Console.WriteLine($"Extracting artifact for build {build.Id}");
+						Log($"Extracting artifact for build {build.Id}");
 
 						fullPath = fullPath.Replace("\\\\", "\\");
 
@@ -120,12 +125,12 @@ namespace Uno.UI.TestComparer
 					}
 					else
 					{
-						Console.WriteLine($"Skipping download artifact for build {build.Id} (The artifact {artifactName} cannot be found)");
+						Log($"Skipping download artifact for build {build.Id} (The artifact {artifactName} cannot be found)");
 					}
 				}
 				else
 				{
-					Console.WriteLine($"Skipping already downloaded build {build.Id} artifacts");
+					Log($"Skipping already downloaded build {build.Id} artifacts");
 				}
 			}
 
