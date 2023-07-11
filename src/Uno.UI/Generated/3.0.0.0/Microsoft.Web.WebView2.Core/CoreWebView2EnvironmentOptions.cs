@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.TargetCompatibleBrowserVersion is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2EnvironmentOptions.TargetCompatibleBrowserVersion");
+				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.TargetCompatibleBrowserVersion is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2EnvironmentOptions.TargetCompatibleBrowserVersion");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.Language is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2EnvironmentOptions.Language");
+				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.Language is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2EnvironmentOptions.Language");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2EnvironmentOptions.AllowSingleSignOnUsingOSPrimaryAccount is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2EnvironmentOptions.AllowSingleSignOnUsingOSPrimaryAccount");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2EnvironmentOptions.AllowSingleSignOnUsingOSPrimaryAccount is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2EnvironmentOptions.AllowSingleSignOnUsingOSPrimaryAccount");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.AdditionalBrowserArguments is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2EnvironmentOptions.AdditionalBrowserArguments");
+				throw new global::System.NotImplementedException("The member string CoreWebView2EnvironmentOptions.AdditionalBrowserArguments is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2EnvironmentOptions.AdditionalBrowserArguments");
 			}
 			set
 			{
@@ -69,7 +69,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2EnvironmentOptions.ExclusiveUserDataFolderAccess is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2EnvironmentOptions.ExclusiveUserDataFolderAccess");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2EnvironmentOptions.ExclusiveUserDataFolderAccess is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2EnvironmentOptions.ExclusiveUserDataFolderAccess");
 			}
 			set
 			{

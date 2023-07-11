@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2MoveFocusRequestedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2MoveFocusRequestedEventArgs.Handled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2MoveFocusRequestedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2MoveFocusRequestedEventArgs.Handled");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2MoveFocusReason CoreWebView2MoveFocusRequestedEventArgs.Reason is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2MoveFocusReason%20CoreWebView2MoveFocusRequestedEventArgs.Reason");
+				throw new global::System.NotImplementedException("The member CoreWebView2MoveFocusReason CoreWebView2MoveFocusRequestedEventArgs.Reason is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2MoveFocusReason%20CoreWebView2MoveFocusRequestedEventArgs.Reason");
 			}
 		}
 		#endif

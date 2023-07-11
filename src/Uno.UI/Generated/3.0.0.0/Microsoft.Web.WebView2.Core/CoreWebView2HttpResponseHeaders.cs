@@ -18,21 +18,21 @@ namespace Microsoft.Web.WebView2.Core
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  bool Contains( string name)
 		{
-			throw new global::System.NotImplementedException("The member bool CoreWebView2HttpResponseHeaders.Contains(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2HttpResponseHeaders.Contains%28string%20name%29");
+			throw new global::System.NotImplementedException("The member bool CoreWebView2HttpResponseHeaders.Contains(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2HttpResponseHeaders.Contains%28string%20name%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  string GetHeader( string name)
 		{
-			throw new global::System.NotImplementedException("The member string CoreWebView2HttpResponseHeaders.GetHeader(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2HttpResponseHeaders.GetHeader%28string%20name%29");
+			throw new global::System.NotImplementedException("The member string CoreWebView2HttpResponseHeaders.GetHeader(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2HttpResponseHeaders.GetHeader%28string%20name%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Microsoft.Web.WebView2.Core.CoreWebView2HttpHeadersCollectionIterator GetHeaders( string name)
 		{
-			throw new global::System.NotImplementedException("The member CoreWebView2HttpHeadersCollectionIterator CoreWebView2HttpResponseHeaders.GetHeaders(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2HttpHeadersCollectionIterator%20CoreWebView2HttpResponseHeaders.GetHeaders%28string%20name%29");
+			throw new global::System.NotImplementedException("The member CoreWebView2HttpHeadersCollectionIterator CoreWebView2HttpResponseHeaders.GetHeaders(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2HttpHeadersCollectionIterator%20CoreWebView2HttpResponseHeaders.GetHeaders%28string%20name%29");
 		}
 		#endif
 		// Forced skipping of method Microsoft.Web.WebView2.Core.CoreWebView2HttpResponseHeaders.First()

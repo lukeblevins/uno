@@ -14,7 +14,7 @@ namespace Windows.Devices.Perception.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Color is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownPerceptionFrameKind.Color");
+				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Color is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownPerceptionFrameKind.Color");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Devices.Perception.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Depth is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownPerceptionFrameKind.Depth");
+				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Depth is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownPerceptionFrameKind.Depth");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.Devices.Perception.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Infrared is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownPerceptionFrameKind.Infrared");
+				throw new global::System.NotImplementedException("The member string KnownPerceptionFrameKind.Infrared is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownPerceptionFrameKind.Infrared");
 			}
 		}
 		#endif

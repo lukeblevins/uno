@@ -4,7 +4,7 @@ using System;
 using Windows.ApplicationModel.Activation;
 using Windows.Foundation;
 using Windows.Foundation.Metadata;
-using Windows.UI.Xaml.Controls.Primitives;
+using Microsoft.UI.Xaml.Controls.Primitives;
 using Windows.ApplicationModel;
 using Windows.Graphics.Display;
 using Windows.UI.Core;
@@ -14,7 +14,7 @@ using System.Globalization;
 using Windows.ApplicationModel.Core;
 using Uno.UI.Xaml.Core;
 
-namespace Windows.UI.Xaml
+namespace Microsoft.UI.Xaml
 {
 	public partial class Application : IApplicationEvents
 	{
@@ -31,7 +31,7 @@ namespace Windows.UI.Xaml
 
 			if (!_startInvoked)
 			{
-				throw new InvalidOperationException("The application must be started using Application.Start first, e.g. Windows.UI.Xaml.Application.Start(_ => new App());");
+				throw new InvalidOperationException("The application must be started using Application.Start first, e.g. Microsoft.UI.Xaml.Application.Start(_ => new App());");
 			}
 
 			_ = CoreDispatcher.Main.RunAsync(CoreDispatcherPriority.Normal, Initialize);
@@ -69,7 +69,7 @@ namespace Windows.UI.Xaml
 			}
 		}
 
-		internal static void StartWithArguments(global::Windows.UI.Xaml.ApplicationInitializationCallback callback)
+		internal static void StartWithArguments(global::Microsoft.UI.Xaml.ApplicationInitializationCallback callback)
 		{
 			_arguments = GetCommandLineArgsWithoutExecutable();
 			Start(callback);

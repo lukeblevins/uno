@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.ConversationalAgent
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ActivationSignalDetectionConfiguration ActivationSignalDetectionConfigurationCreationResult.Configuration is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ActivationSignalDetectionConfiguration%20ActivationSignalDetectionConfigurationCreationResult.Configuration");
+				throw new global::System.NotImplementedException("The member ActivationSignalDetectionConfiguration ActivationSignalDetectionConfigurationCreationResult.Configuration is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ActivationSignalDetectionConfiguration%20ActivationSignalDetectionConfigurationCreationResult.Configuration");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.ApplicationModel.ConversationalAgent
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ActivationSignalDetectionConfigurationCreationStatus ActivationSignalDetectionConfigurationCreationResult.Status is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ActivationSignalDetectionConfigurationCreationStatus%20ActivationSignalDetectionConfigurationCreationResult.Status");
+				throw new global::System.NotImplementedException("The member ActivationSignalDetectionConfigurationCreationStatus ActivationSignalDetectionConfigurationCreationResult.Status is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ActivationSignalDetectionConfigurationCreationStatus%20ActivationSignalDetectionConfigurationCreationResult.Status");
 			}
 		}
 		#endif

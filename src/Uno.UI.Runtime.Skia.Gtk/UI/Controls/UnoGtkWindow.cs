@@ -11,8 +11,8 @@ using Windows.Foundation;
 using Windows.UI.Core.Preview;
 using Windows.UI.ViewManagement;
 using IOPath = System.IO.Path;
-using WinUIApplication = Windows.UI.Xaml.Application;
-using WinUIWindow = Windows.UI.Xaml.Window;
+using WinUIApplication = Microsoft.UI.Xaml.Application;
+using WinUIWindow = Microsoft.UI.Xaml.Window;
 
 namespace Uno.UI.Runtime.Skia.GTK.UI.Controls;
 
@@ -102,7 +102,7 @@ internal class UnoGtkWindow : Gtk.Window
 
 				SetIconFromFile(iconPath);
 			}
-			else if (Windows.UI.Xaml.Media.Imaging.BitmapImage.GetScaledPath(basePath) is { } scaledPath && File.Exists(scaledPath))
+			else if (Microsoft.UI.Xaml.Media.Imaging.BitmapImage.GetScaledPath(basePath) is { } scaledPath && File.Exists(scaledPath))
 			{
 				if (this.Log().IsEnabled(LogLevel.Information))
 				{

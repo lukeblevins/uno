@@ -13,7 +13,7 @@ namespace Windows.Networking.Connectivity
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Guid NetworkItem.NetworkId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Guid%20NetworkItem.NetworkId");
+				throw new global::System.NotImplementedException("The member Guid NetworkItem.NetworkId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Guid%20NetworkItem.NetworkId");
 			}
 		}
 		#endif
@@ -22,7 +22,7 @@ namespace Windows.Networking.Connectivity
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Networking.Connectivity.NetworkTypes GetNetworkTypes()
 		{
-			throw new global::System.NotImplementedException("The member NetworkTypes NetworkItem.GetNetworkTypes() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=NetworkTypes%20NetworkItem.GetNetworkTypes%28%29");
+			throw new global::System.NotImplementedException("The member NetworkTypes NetworkItem.GetNetworkTypes() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=NetworkTypes%20NetworkItem.GetNetworkTypes%28%29");
 		}
 		#endif
 	}

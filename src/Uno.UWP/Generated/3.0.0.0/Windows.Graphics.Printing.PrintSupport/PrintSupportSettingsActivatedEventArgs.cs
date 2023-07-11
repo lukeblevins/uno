@@ -13,7 +13,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ActivationKind PrintSupportSettingsActivatedEventArgs.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ActivationKind%20PrintSupportSettingsActivatedEventArgs.Kind");
+				throw new global::System.NotImplementedException("The member ActivationKind PrintSupportSettingsActivatedEventArgs.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ActivationKind%20PrintSupportSettingsActivatedEventArgs.Kind");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ApplicationExecutionState PrintSupportSettingsActivatedEventArgs.PreviousExecutionState is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ApplicationExecutionState%20PrintSupportSettingsActivatedEventArgs.PreviousExecutionState");
+				throw new global::System.NotImplementedException("The member ApplicationExecutionState PrintSupportSettingsActivatedEventArgs.PreviousExecutionState is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ApplicationExecutionState%20PrintSupportSettingsActivatedEventArgs.PreviousExecutionState");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member SplashScreen PrintSupportSettingsActivatedEventArgs.SplashScreen is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=SplashScreen%20PrintSupportSettingsActivatedEventArgs.SplashScreen");
+				throw new global::System.NotImplementedException("The member SplashScreen PrintSupportSettingsActivatedEventArgs.SplashScreen is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=SplashScreen%20PrintSupportSettingsActivatedEventArgs.SplashScreen");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member User PrintSupportSettingsActivatedEventArgs.User is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=User%20PrintSupportSettingsActivatedEventArgs.User");
+				throw new global::System.NotImplementedException("The member User PrintSupportSettingsActivatedEventArgs.User is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=User%20PrintSupportSettingsActivatedEventArgs.User");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member PrintSupportSettingsUISession PrintSupportSettingsActivatedEventArgs.Session is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PrintSupportSettingsUISession%20PrintSupportSettingsActivatedEventArgs.Session");
+				throw new global::System.NotImplementedException("The member PrintSupportSettingsUISession PrintSupportSettingsActivatedEventArgs.Session is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PrintSupportSettingsUISession%20PrintSupportSettingsActivatedEventArgs.Session");
 			}
 		}
 		#endif
@@ -62,7 +62,7 @@ namespace Windows.Graphics.Printing.PrintSupport
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral PrintSupportSettingsActivatedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20PrintSupportSettingsActivatedEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral PrintSupportSettingsActivatedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20PrintSupportSettingsActivatedEventArgs.GetDeferral%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Graphics.Printing.PrintSupport.PrintSupportSettingsActivatedEventArgs.Kind.get

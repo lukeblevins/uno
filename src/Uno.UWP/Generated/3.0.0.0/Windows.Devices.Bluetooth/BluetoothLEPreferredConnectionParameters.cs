@@ -13,7 +13,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.ConnectionLatency is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ushort%20BluetoothLEPreferredConnectionParameters.ConnectionLatency");
+				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.ConnectionLatency is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ushort%20BluetoothLEPreferredConnectionParameters.ConnectionLatency");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.LinkTimeout is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ushort%20BluetoothLEPreferredConnectionParameters.LinkTimeout");
+				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.LinkTimeout is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ushort%20BluetoothLEPreferredConnectionParameters.LinkTimeout");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.MaxConnectionInterval is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ushort%20BluetoothLEPreferredConnectionParameters.MaxConnectionInterval");
+				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.MaxConnectionInterval is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ushort%20BluetoothLEPreferredConnectionParameters.MaxConnectionInterval");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.MinConnectionInterval is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ushort%20BluetoothLEPreferredConnectionParameters.MinConnectionInterval");
+				throw new global::System.NotImplementedException("The member ushort BluetoothLEPreferredConnectionParameters.MinConnectionInterval is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ushort%20BluetoothLEPreferredConnectionParameters.MinConnectionInterval");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.Balanced is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.Balanced");
+				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.Balanced is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.Balanced");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.PowerOptimized is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.PowerOptimized");
+				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.PowerOptimized is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.PowerOptimized");
 			}
 		}
 		#endif
@@ -73,7 +73,7 @@ namespace Windows.Devices.Bluetooth
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.ThroughputOptimized is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.ThroughputOptimized");
+				throw new global::System.NotImplementedException("The member BluetoothLEPreferredConnectionParameters BluetoothLEPreferredConnectionParameters.ThroughputOptimized is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=BluetoothLEPreferredConnectionParameters%20BluetoothLEPreferredConnectionParameters.ThroughputOptimized");
 			}
 		}
 		#endif

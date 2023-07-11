@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceResponse CoreWebView2WebResourceRequestedEventArgs.Response is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2WebResourceResponse%20CoreWebView2WebResourceRequestedEventArgs.Response");
+				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceResponse CoreWebView2WebResourceRequestedEventArgs.Response is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2WebResourceResponse%20CoreWebView2WebResourceRequestedEventArgs.Response");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceRequest CoreWebView2WebResourceRequestedEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2WebResourceRequest%20CoreWebView2WebResourceRequestedEventArgs.Request");
+				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceRequest CoreWebView2WebResourceRequestedEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2WebResourceRequest%20CoreWebView2WebResourceRequestedEventArgs.Request");
 			}
 		}
 		#endif
@@ -37,7 +37,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceContext CoreWebView2WebResourceRequestedEventArgs.ResourceContext is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2WebResourceContext%20CoreWebView2WebResourceRequestedEventArgs.ResourceContext");
+				throw new global::System.NotImplementedException("The member CoreWebView2WebResourceContext CoreWebView2WebResourceRequestedEventArgs.ResourceContext is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2WebResourceContext%20CoreWebView2WebResourceRequestedEventArgs.ResourceContext");
 			}
 		}
 		#endif
@@ -49,7 +49,7 @@ namespace Microsoft.Web.WebView2.Core
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral CoreWebView2WebResourceRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20CoreWebView2WebResourceRequestedEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral CoreWebView2WebResourceRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20CoreWebView2WebResourceRequestedEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

@@ -5,7 +5,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 	#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class CommandBarFlyoutCommandBarTemplateSettings : global::Windows.UI.Xaml.DependencyObject
+	public  partial class CommandBarFlyoutCommandBarTemplateSettings : global::Microsoft.UI.Xaml.DependencyObject
 	{
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
@@ -13,7 +13,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.CloseAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.CloseAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.CloseAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.CloseAnimationEndPosition");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Rect CommandBarFlyoutCommandBarTemplateSettings.ContentClipRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Rect%20CommandBarFlyoutCommandBarTemplateSettings.ContentClipRect");
+				throw new global::System.NotImplementedException("The member Rect CommandBarFlyoutCommandBarTemplateSettings.ContentClipRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Rect%20CommandBarFlyoutCommandBarTemplateSettings.ContentClipRect");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.CurrentWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.CurrentWidth");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.CurrentWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.CurrentWidth");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationEndPosition");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationHoldPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationHoldPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationHoldPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationHoldPosition");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownAnimationStartPosition");
 			}
 		}
 		#endif
@@ -73,7 +73,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownOverflowVerticalPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownOverflowVerticalPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandDownOverflowVerticalPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandDownOverflowVerticalPosition");
 			}
 		}
 		#endif
@@ -83,7 +83,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationEndPosition");
 			}
 		}
 		#endif
@@ -93,7 +93,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationHoldPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationHoldPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationHoldPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationHoldPosition");
 			}
 		}
 		#endif
@@ -103,7 +103,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpAnimationStartPosition");
 			}
 		}
 		#endif
@@ -113,7 +113,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpOverflowVerticalPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpOverflowVerticalPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandUpOverflowVerticalPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandUpOverflowVerticalPosition");
 			}
 		}
 		#endif
@@ -123,7 +123,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandedWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandedWidth");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.ExpandedWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.ExpandedWidth");
 			}
 		}
 		#endif
@@ -133,7 +133,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationEndPosition");
 			}
 		}
 		#endif
@@ -143,7 +143,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.OpenAnimationStartPosition");
 			}
 		}
 		#endif
@@ -153,7 +153,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Rect CommandBarFlyoutCommandBarTemplateSettings.OverflowContentClipRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Rect%20CommandBarFlyoutCommandBarTemplateSettings.OverflowContentClipRect");
+				throw new global::System.NotImplementedException("The member Rect CommandBarFlyoutCommandBarTemplateSettings.OverflowContentClipRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Rect%20CommandBarFlyoutCommandBarTemplateSettings.OverflowContentClipRect");
 			}
 		}
 		#endif
@@ -163,7 +163,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationEndPosition");
 			}
 		}
 		#endif
@@ -173,7 +173,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionAnimationStartPosition");
 			}
 		}
 		#endif
@@ -183,7 +183,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionDelta is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionDelta");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionDelta is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionDelta");
 			}
 		}
 		#endif
@@ -193,7 +193,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationEndPosition");
 			}
 		}
 		#endif
@@ -203,7 +203,7 @@ namespace Microsoft.UI.Xaml.Controls.Primitives
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20CommandBarFlyoutCommandBarTemplateSettings.WidthExpansionMoreButtonAnimationStartPosition");
 			}
 		}
 		#endif

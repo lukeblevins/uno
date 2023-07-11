@@ -14,7 +14,7 @@ namespace Windows.ApplicationModel.Contacts
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownContactField.Email is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownContactField.Email");
+				throw new global::System.NotImplementedException("The member string KnownContactField.Email is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownContactField.Email");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.ApplicationModel.Contacts
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownContactField.InstantMessage is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownContactField.InstantMessage");
+				throw new global::System.NotImplementedException("The member string KnownContactField.InstantMessage is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownContactField.InstantMessage");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.ApplicationModel.Contacts
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownContactField.Location is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownContactField.Location");
+				throw new global::System.NotImplementedException("The member string KnownContactField.Location is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownContactField.Location");
 			}
 		}
 		#endif
@@ -44,7 +44,7 @@ namespace Windows.ApplicationModel.Contacts
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string KnownContactField.PhoneNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownContactField.PhoneNumber");
+				throw new global::System.NotImplementedException("The member string KnownContactField.PhoneNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownContactField.PhoneNumber");
 			}
 		}
 		#endif
@@ -56,14 +56,14 @@ namespace Windows.ApplicationModel.Contacts
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.ApplicationModel.Contacts.ContactFieldType ConvertNameToType( string name)
 		{
-			throw new global::System.NotImplementedException("The member ContactFieldType KnownContactField.ConvertNameToType(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ContactFieldType%20KnownContactField.ConvertNameToType%28string%20name%29");
+			throw new global::System.NotImplementedException("The member ContactFieldType KnownContactField.ConvertNameToType(string name) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ContactFieldType%20KnownContactField.ConvertNameToType%28string%20name%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static string ConvertTypeToName( global::Windows.ApplicationModel.Contacts.ContactFieldType type)
 		{
-			throw new global::System.NotImplementedException("The member string KnownContactField.ConvertTypeToName(ContactFieldType type) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20KnownContactField.ConvertTypeToName%28ContactFieldType%20type%29");
+			throw new global::System.NotImplementedException("The member string KnownContactField.ConvertTypeToName(ContactFieldType type) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20KnownContactField.ConvertTypeToName%28ContactFieldType%20type%29");
 		}
 		#endif
 	}

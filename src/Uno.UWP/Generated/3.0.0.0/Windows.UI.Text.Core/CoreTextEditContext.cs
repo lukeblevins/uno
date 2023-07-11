@@ -13,7 +13,7 @@ namespace Windows.UI.Text.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreTextEditContext.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreTextEditContext.Name");
+				throw new global::System.NotImplementedException("The member string CoreTextEditContext.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreTextEditContext.Name");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.UI.Text.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreTextEditContext.IsReadOnly is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreTextEditContext.IsReadOnly");
+				throw new global::System.NotImplementedException("The member bool CoreTextEditContext.IsReadOnly is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreTextEditContext.IsReadOnly");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.UI.Text.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreTextInputScope CoreTextEditContext.InputScope is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreTextInputScope%20CoreTextEditContext.InputScope");
+				throw new global::System.NotImplementedException("The member CoreTextInputScope CoreTextEditContext.InputScope is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreTextInputScope%20CoreTextEditContext.InputScope");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Windows.UI.Text.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreTextInputPaneDisplayPolicy CoreTextEditContext.InputPaneDisplayPolicy is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreTextInputPaneDisplayPolicy%20CoreTextEditContext.InputPaneDisplayPolicy");
+				throw new global::System.NotImplementedException("The member CoreTextInputPaneDisplayPolicy CoreTextEditContext.InputPaneDisplayPolicy is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreTextInputPaneDisplayPolicy%20CoreTextEditContext.InputPaneDisplayPolicy");
 			}
 			set
 			{

@@ -14,7 +14,7 @@ namespace Windows.Storage.Pickers.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string FileRemovedEventArgs.Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20FileRemovedEventArgs.Id");
+				throw new global::System.NotImplementedException("The member string FileRemovedEventArgs.Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20FileRemovedEventArgs.Id");
 			}
 		}
 		#endif

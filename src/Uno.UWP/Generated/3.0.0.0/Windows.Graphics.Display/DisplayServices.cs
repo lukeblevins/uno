@@ -11,7 +11,7 @@ namespace Windows.Graphics.Display
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Graphics.DisplayId[] FindAll()
 		{
-			throw new global::System.NotImplementedException("The member DisplayId[] DisplayServices.FindAll() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DisplayId%5B%5D%20DisplayServices.FindAll%28%29");
+			throw new global::System.NotImplementedException("The member DisplayId[] DisplayServices.FindAll() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DisplayId%5B%5D%20DisplayServices.FindAll%28%29");
 		}
 		#endif
 	}

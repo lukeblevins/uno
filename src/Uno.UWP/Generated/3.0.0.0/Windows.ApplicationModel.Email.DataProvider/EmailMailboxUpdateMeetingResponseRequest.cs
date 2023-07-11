@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.Comment is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20EmailMailboxUpdateMeetingResponseRequest.Comment");
+				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.Comment is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20EmailMailboxUpdateMeetingResponseRequest.Comment");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.EmailMailboxId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20EmailMailboxUpdateMeetingResponseRequest.EmailMailboxId");
+				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.EmailMailboxId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20EmailMailboxUpdateMeetingResponseRequest.EmailMailboxId");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.EmailMessageId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20EmailMailboxUpdateMeetingResponseRequest.EmailMessageId");
+				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.EmailMessageId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20EmailMailboxUpdateMeetingResponseRequest.EmailMessageId");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member EmailMeetingResponseType EmailMailboxUpdateMeetingResponseRequest.Response is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=EmailMeetingResponseType%20EmailMailboxUpdateMeetingResponseRequest.Response");
+				throw new global::System.NotImplementedException("The member EmailMeetingResponseType EmailMailboxUpdateMeetingResponseRequest.Response is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=EmailMeetingResponseType%20EmailMailboxUpdateMeetingResponseRequest.Response");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool EmailMailboxUpdateMeetingResponseRequest.SendUpdate is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20EmailMailboxUpdateMeetingResponseRequest.SendUpdate");
+				throw new global::System.NotImplementedException("The member bool EmailMailboxUpdateMeetingResponseRequest.SendUpdate is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20EmailMailboxUpdateMeetingResponseRequest.SendUpdate");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.Subject is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20EmailMailboxUpdateMeetingResponseRequest.Subject");
+				throw new global::System.NotImplementedException("The member string EmailMailboxUpdateMeetingResponseRequest.Subject is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20EmailMailboxUpdateMeetingResponseRequest.Subject");
 			}
 		}
 		#endif
@@ -77,14 +77,14 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction ReportCompletedAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction EmailMailboxUpdateMeetingResponseRequest.ReportCompletedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20EmailMailboxUpdateMeetingResponseRequest.ReportCompletedAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction EmailMailboxUpdateMeetingResponseRequest.ReportCompletedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20EmailMailboxUpdateMeetingResponseRequest.ReportCompletedAsync%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction ReportFailedAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction EmailMailboxUpdateMeetingResponseRequest.ReportFailedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20EmailMailboxUpdateMeetingResponseRequest.ReportFailedAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction EmailMailboxUpdateMeetingResponseRequest.ReportFailedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20EmailMailboxUpdateMeetingResponseRequest.ReportFailedAsync%28%29");
 		}
 		#endif
 	}

@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int CoreWebView2WebResourceResponse.StatusCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20CoreWebView2WebResourceResponse.StatusCode");
+				throw new global::System.NotImplementedException("The member int CoreWebView2WebResourceResponse.StatusCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20CoreWebView2WebResourceResponse.StatusCode");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2WebResourceResponse.ReasonPhrase is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2WebResourceResponse.ReasonPhrase");
+				throw new global::System.NotImplementedException("The member string CoreWebView2WebResourceResponse.ReasonPhrase is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2WebResourceResponse.ReasonPhrase");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IRandomAccessStream CoreWebView2WebResourceResponse.Content is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IRandomAccessStream%20CoreWebView2WebResourceResponse.Content");
+				throw new global::System.NotImplementedException("The member IRandomAccessStream CoreWebView2WebResourceResponse.Content is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IRandomAccessStream%20CoreWebView2WebResourceResponse.Content");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2HttpResponseHeaders CoreWebView2WebResourceResponse.Headers is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2HttpResponseHeaders%20CoreWebView2WebResourceResponse.Headers");
+				throw new global::System.NotImplementedException("The member CoreWebView2HttpResponseHeaders CoreWebView2WebResourceResponse.Headers is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2HttpResponseHeaders%20CoreWebView2WebResourceResponse.Headers");
 			}
 		}
 		#endif

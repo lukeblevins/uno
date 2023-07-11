@@ -14,7 +14,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PlayToSourceSelectedEventArgs.FriendlyName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PlayToSourceSelectedEventArgs.FriendlyName");
+				throw new global::System.NotImplementedException("The member string PlayToSourceSelectedEventArgs.FriendlyName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PlayToSourceSelectedEventArgs.FriendlyName");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IRandomAccessStreamWithContentType PlayToSourceSelectedEventArgs.Icon is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IRandomAccessStreamWithContentType%20PlayToSourceSelectedEventArgs.Icon");
+				throw new global::System.NotImplementedException("The member IRandomAccessStreamWithContentType PlayToSourceSelectedEventArgs.Icon is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IRandomAccessStreamWithContentType%20PlayToSourceSelectedEventArgs.Icon");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsAudio is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PlayToSourceSelectedEventArgs.SupportsAudio");
+				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsAudio is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PlayToSourceSelectedEventArgs.SupportsAudio");
 			}
 		}
 		#endif
@@ -44,7 +44,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsImage is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PlayToSourceSelectedEventArgs.SupportsImage");
+				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsImage is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PlayToSourceSelectedEventArgs.SupportsImage");
 			}
 		}
 		#endif
@@ -54,7 +54,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsVideo is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PlayToSourceSelectedEventArgs.SupportsVideo");
+				throw new global::System.NotImplementedException("The member bool PlayToSourceSelectedEventArgs.SupportsVideo is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PlayToSourceSelectedEventArgs.SupportsVideo");
 			}
 		}
 		#endif

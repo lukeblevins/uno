@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsZoomControlEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsZoomControlEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsZoomControlEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsZoomControlEnabled");
 			}
 			set
 			{
@@ -28,7 +28,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsStatusBarEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsStatusBarEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsStatusBarEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsStatusBarEnabled");
 			}
 			set
 			{
@@ -42,7 +42,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsScriptEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsScriptEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsScriptEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsScriptEnabled");
 			}
 			set
 			{
@@ -56,7 +56,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsBuiltInErrorPageEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsBuiltInErrorPageEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsBuiltInErrorPageEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsBuiltInErrorPageEnabled");
 			}
 			set
 			{
@@ -70,7 +70,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreHostObjectsAllowed is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.AreHostObjectsAllowed");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreHostObjectsAllowed is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.AreHostObjectsAllowed");
 			}
 			set
 			{
@@ -84,7 +84,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDevToolsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.AreDevToolsEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDevToolsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.AreDevToolsEnabled");
 			}
 			set
 			{
@@ -98,7 +98,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDefaultScriptDialogsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.AreDefaultScriptDialogsEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDefaultScriptDialogsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.AreDefaultScriptDialogsEnabled");
 			}
 			set
 			{
@@ -112,7 +112,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDefaultContextMenusEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.AreDefaultContextMenusEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreDefaultContextMenusEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.AreDefaultContextMenusEnabled");
 			}
 			set
 			{
@@ -126,7 +126,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ICoreWebView2DispatchAdapter CoreWebView2Settings.HostObjectDispatchAdapter is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ICoreWebView2DispatchAdapter%20CoreWebView2Settings.HostObjectDispatchAdapter");
+				throw new global::System.NotImplementedException("The member ICoreWebView2DispatchAdapter CoreWebView2Settings.HostObjectDispatchAdapter is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ICoreWebView2DispatchAdapter%20CoreWebView2Settings.HostObjectDispatchAdapter");
 			}
 			set
 			{
@@ -140,7 +140,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2Settings.UserAgent is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2Settings.UserAgent");
+				throw new global::System.NotImplementedException("The member string CoreWebView2Settings.UserAgent is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2Settings.UserAgent");
 			}
 			set
 			{
@@ -154,7 +154,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreBrowserAcceleratorKeysEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.AreBrowserAcceleratorKeysEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.AreBrowserAcceleratorKeysEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.AreBrowserAcceleratorKeysEnabled");
 			}
 			set
 			{
@@ -168,7 +168,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsPasswordAutosaveEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsPasswordAutosaveEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsPasswordAutosaveEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsPasswordAutosaveEnabled");
 			}
 			set
 			{
@@ -182,7 +182,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsGeneralAutofillEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsGeneralAutofillEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsGeneralAutofillEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsGeneralAutofillEnabled");
 			}
 			set
 			{
@@ -196,7 +196,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsPinchZoomEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsPinchZoomEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsPinchZoomEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsPinchZoomEnabled");
 			}
 			set
 			{
@@ -210,7 +210,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsSwipeNavigationEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2Settings.IsSwipeNavigationEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2Settings.IsSwipeNavigationEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2Settings.IsSwipeNavigationEnabled");
 			}
 			set
 			{
@@ -224,7 +224,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2PdfToolbarItems CoreWebView2Settings.HiddenPdfToolbarItems is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2PdfToolbarItems%20CoreWebView2Settings.HiddenPdfToolbarItems");
+				throw new global::System.NotImplementedException("The member CoreWebView2PdfToolbarItems CoreWebView2Settings.HiddenPdfToolbarItems is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2PdfToolbarItems%20CoreWebView2Settings.HiddenPdfToolbarItems");
 			}
 			set
 			{

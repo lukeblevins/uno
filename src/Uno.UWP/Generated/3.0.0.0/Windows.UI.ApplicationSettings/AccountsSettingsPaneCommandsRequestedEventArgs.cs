@@ -13,7 +13,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AccountsSettingsPaneCommandsRequestedEventArgs.HeaderText is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AccountsSettingsPaneCommandsRequestedEventArgs.HeaderText");
+				throw new global::System.NotImplementedException("The member string AccountsSettingsPaneCommandsRequestedEventArgs.HeaderText is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AccountsSettingsPaneCommandsRequestedEventArgs.HeaderText");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<SettingsCommand> AccountsSettingsPaneCommandsRequestedEventArgs.Commands is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CSettingsCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.Commands");
+				throw new global::System.NotImplementedException("The member IList<SettingsCommand> AccountsSettingsPaneCommandsRequestedEventArgs.Commands is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CSettingsCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.Commands");
 			}
 		}
 		#endif
@@ -37,7 +37,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<CredentialCommand> AccountsSettingsPaneCommandsRequestedEventArgs.CredentialCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CCredentialCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.CredentialCommands");
+				throw new global::System.NotImplementedException("The member IList<CredentialCommand> AccountsSettingsPaneCommandsRequestedEventArgs.CredentialCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CCredentialCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.CredentialCommands");
 			}
 		}
 		#endif
@@ -47,7 +47,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<WebAccountCommand> AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CWebAccountCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountCommands");
+				throw new global::System.NotImplementedException("The member IList<WebAccountCommand> AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CWebAccountCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountCommands");
 			}
 		}
 		#endif
@@ -57,7 +57,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<WebAccountProviderCommand> AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountProviderCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CWebAccountProviderCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountProviderCommands");
+				throw new global::System.NotImplementedException("The member IList<WebAccountProviderCommand> AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountProviderCommands is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CWebAccountProviderCommand%3E%20AccountsSettingsPaneCommandsRequestedEventArgs.WebAccountProviderCommands");
 			}
 		}
 		#endif
@@ -67,7 +67,7 @@ namespace Windows.UI.ApplicationSettings
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member User AccountsSettingsPaneCommandsRequestedEventArgs.User is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=User%20AccountsSettingsPaneCommandsRequestedEventArgs.User");
+				throw new global::System.NotImplementedException("The member User AccountsSettingsPaneCommandsRequestedEventArgs.User is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=User%20AccountsSettingsPaneCommandsRequestedEventArgs.User");
 			}
 		}
 		#endif
@@ -81,7 +81,7 @@ namespace Windows.UI.ApplicationSettings
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.UI.ApplicationSettings.AccountsSettingsPaneEventDeferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member AccountsSettingsPaneEventDeferral AccountsSettingsPaneCommandsRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AccountsSettingsPaneEventDeferral%20AccountsSettingsPaneCommandsRequestedEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member AccountsSettingsPaneEventDeferral AccountsSettingsPaneCommandsRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AccountsSettingsPaneEventDeferral%20AccountsSettingsPaneCommandsRequestedEventArgs.GetDeferral%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.UI.ApplicationSettings.AccountsSettingsPaneCommandsRequestedEventArgs.User.get

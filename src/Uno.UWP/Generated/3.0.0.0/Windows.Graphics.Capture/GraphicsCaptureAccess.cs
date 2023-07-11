@@ -11,7 +11,7 @@ namespace Windows.Graphics.Capture
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.Security.Authorization.AppCapabilityAccess.AppCapabilityAccessStatus> RequestAccessAsync( global::Windows.Graphics.Capture.GraphicsCaptureAccessKind request)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<AppCapabilityAccessStatus> GraphicsCaptureAccess.RequestAccessAsync(GraphicsCaptureAccessKind request) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CAppCapabilityAccessStatus%3E%20GraphicsCaptureAccess.RequestAccessAsync%28GraphicsCaptureAccessKind%20request%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<AppCapabilityAccessStatus> GraphicsCaptureAccess.RequestAccessAsync(GraphicsCaptureAccessKind request) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CAppCapabilityAccessStatus%3E%20GraphicsCaptureAccess.RequestAccessAsync%28GraphicsCaptureAccessKind%20request%29");
 		}
 		#endif
 	}

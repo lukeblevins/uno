@@ -13,7 +13,7 @@ namespace Windows.System.RemoteSystems
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member RemoteSystem RemoteSystemSessionInvitation.Sender is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=RemoteSystem%20RemoteSystemSessionInvitation.Sender");
+				throw new global::System.NotImplementedException("The member RemoteSystem RemoteSystemSessionInvitation.Sender is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=RemoteSystem%20RemoteSystemSessionInvitation.Sender");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.System.RemoteSystems
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member RemoteSystemSessionInfo RemoteSystemSessionInvitation.SessionInfo is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=RemoteSystemSessionInfo%20RemoteSystemSessionInvitation.SessionInfo");
+				throw new global::System.NotImplementedException("The member RemoteSystemSessionInfo RemoteSystemSessionInvitation.SessionInfo is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=RemoteSystemSessionInfo%20RemoteSystemSessionInvitation.SessionInfo");
 			}
 		}
 		#endif

@@ -13,7 +13,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member TeachingTipCloseReason TeachingTipClosedEventArgs.Reason is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=TeachingTipCloseReason%20TeachingTipClosedEventArgs.Reason");
+				throw new global::System.NotImplementedException("The member TeachingTipCloseReason TeachingTipClosedEventArgs.Reason is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=TeachingTipCloseReason%20TeachingTipClosedEventArgs.Reason");
 			}
 		}
 		#endif

@@ -14,7 +14,7 @@ namespace Windows.ApplicationModel.Background
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool DeviceManufacturerNotificationTrigger.OneShot is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20DeviceManufacturerNotificationTrigger.OneShot");
+				throw new global::System.NotImplementedException("The member bool DeviceManufacturerNotificationTrigger.OneShot is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20DeviceManufacturerNotificationTrigger.OneShot");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.ApplicationModel.Background
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string DeviceManufacturerNotificationTrigger.TriggerQualifier is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20DeviceManufacturerNotificationTrigger.TriggerQualifier");
+				throw new global::System.NotImplementedException("The member string DeviceManufacturerNotificationTrigger.TriggerQualifier is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20DeviceManufacturerNotificationTrigger.TriggerQualifier");
 			}
 		}
 		#endif

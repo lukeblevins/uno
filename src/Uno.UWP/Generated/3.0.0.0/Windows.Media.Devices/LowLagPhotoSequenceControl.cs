@@ -13,7 +13,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaThumbnailFormat LowLagPhotoSequenceControl.ThumbnailFormat is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaThumbnailFormat%20LowLagPhotoSequenceControl.ThumbnailFormat");
+				throw new global::System.NotImplementedException("The member MediaThumbnailFormat LowLagPhotoSequenceControl.ThumbnailFormat is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaThumbnailFormat%20LowLagPhotoSequenceControl.ThumbnailFormat");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool LowLagPhotoSequenceControl.ThumbnailEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20LowLagPhotoSequenceControl.ThumbnailEnabled");
+				throw new global::System.NotImplementedException("The member bool LowLagPhotoSequenceControl.ThumbnailEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20LowLagPhotoSequenceControl.ThumbnailEnabled");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float LowLagPhotoSequenceControl.PhotosPerSecondLimit is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20LowLagPhotoSequenceControl.PhotosPerSecondLimit");
+				throw new global::System.NotImplementedException("The member float LowLagPhotoSequenceControl.PhotosPerSecondLimit is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20LowLagPhotoSequenceControl.PhotosPerSecondLimit");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.PastPhotoLimit is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20LowLagPhotoSequenceControl.PastPhotoLimit");
+				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.PastPhotoLimit is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20LowLagPhotoSequenceControl.PastPhotoLimit");
 			}
 			set
 			{
@@ -69,7 +69,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.DesiredThumbnailSize is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20LowLagPhotoSequenceControl.DesiredThumbnailSize");
+				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.DesiredThumbnailSize is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20LowLagPhotoSequenceControl.DesiredThumbnailSize");
 			}
 			set
 			{
@@ -83,7 +83,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.HardwareAcceleratedThumbnailSupported is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20LowLagPhotoSequenceControl.HardwareAcceleratedThumbnailSupported");
+				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.HardwareAcceleratedThumbnailSupported is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20LowLagPhotoSequenceControl.HardwareAcceleratedThumbnailSupported");
 			}
 		}
 		#endif
@@ -93,7 +93,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.MaxPastPhotos is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20LowLagPhotoSequenceControl.MaxPastPhotos");
+				throw new global::System.NotImplementedException("The member uint LowLagPhotoSequenceControl.MaxPastPhotos is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20LowLagPhotoSequenceControl.MaxPastPhotos");
 			}
 		}
 		#endif
@@ -103,7 +103,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float LowLagPhotoSequenceControl.MaxPhotosPerSecond is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20LowLagPhotoSequenceControl.MaxPhotosPerSecond");
+				throw new global::System.NotImplementedException("The member float LowLagPhotoSequenceControl.MaxPhotosPerSecond is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20LowLagPhotoSequenceControl.MaxPhotosPerSecond");
 			}
 		}
 		#endif
@@ -113,7 +113,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool LowLagPhotoSequenceControl.Supported is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20LowLagPhotoSequenceControl.Supported");
+				throw new global::System.NotImplementedException("The member bool LowLagPhotoSequenceControl.Supported is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20LowLagPhotoSequenceControl.Supported");
 			}
 		}
 		#endif
@@ -128,14 +128,14 @@ namespace Windows.Media.Devices
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.MediaProperties.MediaRatio GetHighestConcurrentFrameRate( global::Windows.Media.MediaProperties.IMediaEncodingProperties captureProperties)
 		{
-			throw new global::System.NotImplementedException("The member MediaRatio LowLagPhotoSequenceControl.GetHighestConcurrentFrameRate(IMediaEncodingProperties captureProperties) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaRatio%20LowLagPhotoSequenceControl.GetHighestConcurrentFrameRate%28IMediaEncodingProperties%20captureProperties%29");
+			throw new global::System.NotImplementedException("The member MediaRatio LowLagPhotoSequenceControl.GetHighestConcurrentFrameRate(IMediaEncodingProperties captureProperties) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaRatio%20LowLagPhotoSequenceControl.GetHighestConcurrentFrameRate%28IMediaEncodingProperties%20captureProperties%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.MediaProperties.MediaRatio GetCurrentFrameRate()
 		{
-			throw new global::System.NotImplementedException("The member MediaRatio LowLagPhotoSequenceControl.GetCurrentFrameRate() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaRatio%20LowLagPhotoSequenceControl.GetCurrentFrameRate%28%29");
+			throw new global::System.NotImplementedException("The member MediaRatio LowLagPhotoSequenceControl.GetCurrentFrameRate() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaRatio%20LowLagPhotoSequenceControl.GetCurrentFrameRate%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Media.Devices.LowLagPhotoSequenceControl.ThumbnailEnabled.get

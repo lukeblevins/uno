@@ -13,7 +13,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float InkModelerAttributes.ScalingFactor is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20InkModelerAttributes.ScalingFactor");
+				throw new global::System.NotImplementedException("The member float InkModelerAttributes.ScalingFactor is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20InkModelerAttributes.ScalingFactor");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member TimeSpan InkModelerAttributes.PredictionTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=TimeSpan%20InkModelerAttributes.PredictionTime");
+				throw new global::System.NotImplementedException("The member TimeSpan InkModelerAttributes.PredictionTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=TimeSpan%20InkModelerAttributes.PredictionTime");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool InkModelerAttributes.UseVelocityBasedPressure is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20InkModelerAttributes.UseVelocityBasedPressure");
+				throw new global::System.NotImplementedException("The member bool InkModelerAttributes.UseVelocityBasedPressure is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20InkModelerAttributes.UseVelocityBasedPressure");
 			}
 			set
 			{

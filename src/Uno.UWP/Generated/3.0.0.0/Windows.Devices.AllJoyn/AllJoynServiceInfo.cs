@@ -14,7 +14,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynServiceInfo.ObjectPath is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynServiceInfo.ObjectPath");
+				throw new global::System.NotImplementedException("The member string AllJoynServiceInfo.ObjectPath is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynServiceInfo.ObjectPath");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ushort AllJoynServiceInfo.SessionPort is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ushort%20AllJoynServiceInfo.SessionPort");
+				throw new global::System.NotImplementedException("The member ushort AllJoynServiceInfo.SessionPort is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ushort%20AllJoynServiceInfo.SessionPort");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynServiceInfo.UniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynServiceInfo.UniqueName");
+				throw new global::System.NotImplementedException("The member string AllJoynServiceInfo.UniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynServiceInfo.UniqueName");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.Devices.AllJoyn
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.AllJoyn.AllJoynServiceInfo> FromIdAsync( string deviceId)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<AllJoynServiceInfo> AllJoynServiceInfo.FromIdAsync(string deviceId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CAllJoynServiceInfo%3E%20AllJoynServiceInfo.FromIdAsync%28string%20deviceId%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<AllJoynServiceInfo> AllJoynServiceInfo.FromIdAsync(string deviceId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CAllJoynServiceInfo%3E%20AllJoynServiceInfo.FromIdAsync%28string%20deviceId%29");
 		}
 		#endif
 	}

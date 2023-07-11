@@ -11,7 +11,7 @@ namespace Windows.Devices.WiFiDirect.Services
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Devices.WiFiDirect.Services.WiFiDirectServiceSessionRequest GetSessionRequest()
 		{
-			throw new global::System.NotImplementedException("The member WiFiDirectServiceSessionRequest WiFiDirectServiceSessionRequestedEventArgs.GetSessionRequest() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=WiFiDirectServiceSessionRequest%20WiFiDirectServiceSessionRequestedEventArgs.GetSessionRequest%28%29");
+			throw new global::System.NotImplementedException("The member WiFiDirectServiceSessionRequest WiFiDirectServiceSessionRequestedEventArgs.GetSessionRequest() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=WiFiDirectServiceSessionRequest%20WiFiDirectServiceSessionRequestedEventArgs.GetSessionRequest%28%29");
 		}
 		#endif
 	}

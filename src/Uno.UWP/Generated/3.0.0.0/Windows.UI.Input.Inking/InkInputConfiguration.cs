@@ -13,7 +13,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsPrimaryBarrelButtonInputEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20InkInputConfiguration.IsPrimaryBarrelButtonInputEnabled");
+				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsPrimaryBarrelButtonInputEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20InkInputConfiguration.IsPrimaryBarrelButtonInputEnabled");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsEraserInputEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20InkInputConfiguration.IsEraserInputEnabled");
+				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsEraserInputEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20InkInputConfiguration.IsEraserInputEnabled");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.UI.Input.Inking
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsPenHapticFeedbackEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20InkInputConfiguration.IsPenHapticFeedbackEnabled");
+				throw new global::System.NotImplementedException("The member bool InkInputConfiguration.IsPenHapticFeedbackEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20InkInputConfiguration.IsPenHapticFeedbackEnabled");
 			}
 			set
 			{

@@ -13,7 +13,7 @@ namespace Windows.Networking.ServiceDiscovery.Dnssd
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint DnssdServiceInstanceCollection.Size is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20DnssdServiceInstanceCollection.Size");
+				throw new global::System.NotImplementedException("The member uint DnssdServiceInstanceCollection.Size is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20DnssdServiceInstanceCollection.Size");
 			}
 		}
 		#endif

@@ -13,7 +13,7 @@ namespace Windows.Phone.PersonalInformation
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ContactAddress.StreetAddress is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ContactAddress.StreetAddress");
+				throw new global::System.NotImplementedException("The member string ContactAddress.StreetAddress is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ContactAddress.StreetAddress");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.Phone.PersonalInformation
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ContactAddress.Region is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ContactAddress.Region");
+				throw new global::System.NotImplementedException("The member string ContactAddress.Region is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ContactAddress.Region");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.Phone.PersonalInformation
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ContactAddress.PostalCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ContactAddress.PostalCode");
+				throw new global::System.NotImplementedException("The member string ContactAddress.PostalCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ContactAddress.PostalCode");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Windows.Phone.PersonalInformation
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ContactAddress.Locality is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ContactAddress.Locality");
+				throw new global::System.NotImplementedException("The member string ContactAddress.Locality is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ContactAddress.Locality");
 			}
 			set
 			{
@@ -69,7 +69,7 @@ namespace Windows.Phone.PersonalInformation
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ContactAddress.Country is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ContactAddress.Country");
+				throw new global::System.NotImplementedException("The member string ContactAddress.Country is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ContactAddress.Country");
 			}
 			set
 			{

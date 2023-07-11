@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuItem.IsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuItem.IsEnabled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuItem.IsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuItem.IsEnabled");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuItem.IsChecked is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuItem.IsChecked");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuItem.IsChecked is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuItem.IsChecked");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<CoreWebView2ContextMenuItem> CoreWebView2ContextMenuItem.Children is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CCoreWebView2ContextMenuItem%3E%20CoreWebView2ContextMenuItem.Children");
+				throw new global::System.NotImplementedException("The member IList<CoreWebView2ContextMenuItem> CoreWebView2ContextMenuItem.Children is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CCoreWebView2ContextMenuItem%3E%20CoreWebView2ContextMenuItem.Children");
 			}
 		}
 		#endif
@@ -51,7 +51,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int CoreWebView2ContextMenuItem.CommandId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20CoreWebView2ContextMenuItem.CommandId");
+				throw new global::System.NotImplementedException("The member int CoreWebView2ContextMenuItem.CommandId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20CoreWebView2ContextMenuItem.CommandId");
 			}
 		}
 		#endif
@@ -61,7 +61,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IRandomAccessStream CoreWebView2ContextMenuItem.Icon is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IRandomAccessStream%20CoreWebView2ContextMenuItem.Icon");
+				throw new global::System.NotImplementedException("The member IRandomAccessStream CoreWebView2ContextMenuItem.Icon is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IRandomAccessStream%20CoreWebView2ContextMenuItem.Icon");
 			}
 		}
 		#endif
@@ -71,7 +71,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2ContextMenuItemKind CoreWebView2ContextMenuItem.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2ContextMenuItemKind%20CoreWebView2ContextMenuItem.Kind");
+				throw new global::System.NotImplementedException("The member CoreWebView2ContextMenuItemKind CoreWebView2ContextMenuItem.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2ContextMenuItemKind%20CoreWebView2ContextMenuItem.Kind");
 			}
 		}
 		#endif
@@ -81,7 +81,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.Label is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuItem.Label");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.Label is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuItem.Label");
 			}
 		}
 		#endif
@@ -91,7 +91,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuItem.Name");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuItem.Name");
 			}
 		}
 		#endif
@@ -101,7 +101,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.ShortcutKeyDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuItem.ShortcutKeyDescription");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuItem.ShortcutKeyDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuItem.ShortcutKeyDescription");
 			}
 		}
 		#endif

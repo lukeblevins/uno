@@ -14,7 +14,7 @@ namespace Windows.Web.Http
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member HttpMethod HttpRequestMessage.Method is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=HttpMethod%20HttpRequestMessage.Method");
+				throw new global::System.NotImplementedException("The member HttpMethod HttpRequestMessage.Method is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=HttpMethod%20HttpRequestMessage.Method");
 			}
 			set
 			{
@@ -28,7 +28,7 @@ namespace Windows.Web.Http
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IHttpContent HttpRequestMessage.Content is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IHttpContent%20HttpRequestMessage.Content");
+				throw new global::System.NotImplementedException("The member IHttpContent HttpRequestMessage.Content is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IHttpContent%20HttpRequestMessage.Content");
 			}
 			set
 			{
@@ -43,7 +43,7 @@ namespace Windows.Web.Http
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IDictionary<string, object> HttpRequestMessage.Properties is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IDictionary%3Cstring%2C%20object%3E%20HttpRequestMessage.Properties");
+				throw new global::System.NotImplementedException("The member IDictionary<string, object> HttpRequestMessage.Properties is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IDictionary%3Cstring%2C%20object%3E%20HttpRequestMessage.Properties");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.Web.Http
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member HttpTransportInformation HttpRequestMessage.TransportInformation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=HttpTransportInformation%20HttpRequestMessage.TransportInformation");
+				throw new global::System.NotImplementedException("The member HttpTransportInformation HttpRequestMessage.TransportInformation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=HttpTransportInformation%20HttpRequestMessage.TransportInformation");
 			}
 		}
 		#endif

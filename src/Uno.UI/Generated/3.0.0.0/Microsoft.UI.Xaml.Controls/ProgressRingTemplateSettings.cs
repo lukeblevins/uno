@@ -5,7 +5,7 @@ namespace Microsoft.UI.Xaml.Controls
 	#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class ProgressRingTemplateSettings : global::Windows.UI.Xaml.DependencyObject
+	public  partial class ProgressRingTemplateSettings : global::Microsoft.UI.Xaml.DependencyObject
 	{
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
@@ -13,17 +13,17 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingTemplateSettings.EllipseDiameter is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingTemplateSettings.EllipseDiameter");
+				throw new global::System.NotImplementedException("The member double ProgressRingTemplateSettings.EllipseDiameter is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingTemplateSettings.EllipseDiameter");
 			}
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
-		public  global::Windows.UI.Xaml.Thickness EllipseOffset
+		public  global::Microsoft.UI.Xaml.Thickness EllipseOffset
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Thickness ProgressRingTemplateSettings.EllipseOffset is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Thickness%20ProgressRingTemplateSettings.EllipseOffset");
+				throw new global::System.NotImplementedException("The member Thickness ProgressRingTemplateSettings.EllipseOffset is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Thickness%20ProgressRingTemplateSettings.EllipseOffset");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingTemplateSettings.MaxSideLength is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingTemplateSettings.MaxSideLength");
+				throw new global::System.NotImplementedException("The member double ProgressRingTemplateSettings.MaxSideLength is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingTemplateSettings.MaxSideLength");
 			}
 		}
 		#endif

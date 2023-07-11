@@ -11,7 +11,7 @@ namespace Windows.Data.Json
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Data.Json.JsonErrorStatus GetJsonStatus( int hresult)
 		{
-			throw new global::System.NotImplementedException("The member JsonErrorStatus JsonError.GetJsonStatus(int hresult) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=JsonErrorStatus%20JsonError.GetJsonStatus%28int%20hresult%29");
+			throw new global::System.NotImplementedException("The member JsonErrorStatus JsonError.GetJsonStatus(int hresult) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=JsonErrorStatus%20JsonError.GetJsonStatus%28int%20hresult%29");
 		}
 		#endif
 	}

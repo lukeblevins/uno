@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member UnhandledError UnhandledErrorDetectedEventArgs.UnhandledError is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=UnhandledError%20UnhandledErrorDetectedEventArgs.UnhandledError");
+				throw new global::System.NotImplementedException("The member UnhandledError UnhandledErrorDetectedEventArgs.UnhandledError is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=UnhandledError%20UnhandledErrorDetectedEventArgs.UnhandledError");
 			}
 		}
 		#endif

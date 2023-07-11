@@ -1,11 +1,11 @@
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Windows.Input;
 using Uno.Extensions;
 using Uno.UI.Views.Controls;
-using Windows.UI.Xaml.Data;
+using Microsoft.UI.Xaml.Data;
 using Uno.UI.Converters;
 using Uno.Client;
 using System.Threading.Tasks;
@@ -16,7 +16,7 @@ using System.Globalization;
 using Uno.Disposables;
 using Uno.Extensions.Specialized;
 using Windows.Foundation;
-using Windows.UI.Xaml.Controls.Primitives;
+using Microsoft.UI.Xaml.Controls.Primitives;
 using Uno.UI;
 using Uno.Foundation.Logging;
 using Uno.UI.Extensions;
@@ -32,7 +32,7 @@ using Foundation;
 using UIKit;
 using CoreGraphics;
 
-namespace Windows.UI.Xaml.Controls
+namespace Microsoft.UI.Xaml.Controls
 {
 	[Bindable]
 	public partial class ListViewBaseSource : UICollectionViewSource

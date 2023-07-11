@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2SourceChangedEventArgs.IsNewDocument is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2SourceChangedEventArgs.IsNewDocument");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2SourceChangedEventArgs.IsNewDocument is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2SourceChangedEventArgs.IsNewDocument");
 			}
 		}
 		#endif

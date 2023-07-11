@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2HttpResponseHeaders CoreWebView2WebResourceResponseView.Headers is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2HttpResponseHeaders%20CoreWebView2WebResourceResponseView.Headers");
+				throw new global::System.NotImplementedException("The member CoreWebView2HttpResponseHeaders CoreWebView2WebResourceResponseView.Headers is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2HttpResponseHeaders%20CoreWebView2WebResourceResponseView.Headers");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2WebResourceResponseView.ReasonPhrase is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2WebResourceResponseView.ReasonPhrase");
+				throw new global::System.NotImplementedException("The member string CoreWebView2WebResourceResponseView.ReasonPhrase is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2WebResourceResponseView.ReasonPhrase");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int CoreWebView2WebResourceResponseView.StatusCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20CoreWebView2WebResourceResponseView.StatusCode");
+				throw new global::System.NotImplementedException("The member int CoreWebView2WebResourceResponseView.StatusCode is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20CoreWebView2WebResourceResponseView.StatusCode");
 			}
 		}
 		#endif
@@ -44,7 +44,7 @@ namespace Microsoft.Web.WebView2.Core
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncOperation<global::Windows.Storage.Streams.IRandomAccessStream> GetContentAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<IRandomAccessStream> CoreWebView2WebResourceResponseView.GetContentAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CIRandomAccessStream%3E%20CoreWebView2WebResourceResponseView.GetContentAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<IRandomAccessStream> CoreWebView2WebResourceResponseView.GetContentAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CIRandomAccessStream%3E%20CoreWebView2WebResourceResponseView.GetContentAsync%28%29");
 		}
 		#endif
 	}

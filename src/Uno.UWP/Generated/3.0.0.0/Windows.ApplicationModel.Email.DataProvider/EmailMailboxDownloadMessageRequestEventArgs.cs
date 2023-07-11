@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member EmailMailboxDownloadMessageRequest EmailMailboxDownloadMessageRequestEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=EmailMailboxDownloadMessageRequest%20EmailMailboxDownloadMessageRequestEventArgs.Request");
+				throw new global::System.NotImplementedException("The member EmailMailboxDownloadMessageRequest EmailMailboxDownloadMessageRequestEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=EmailMailboxDownloadMessageRequest%20EmailMailboxDownloadMessageRequestEventArgs.Request");
 			}
 		}
 		#endif
@@ -22,7 +22,7 @@ namespace Windows.ApplicationModel.Email.DataProvider
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral EmailMailboxDownloadMessageRequestEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20EmailMailboxDownloadMessageRequestEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral EmailMailboxDownloadMessageRequestEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20EmailMailboxDownloadMessageRequestEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

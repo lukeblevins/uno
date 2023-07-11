@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.AppointmentCalendarLocalId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AppointmentCalendarCancelMeetingRequest.AppointmentCalendarLocalId");
+				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.AppointmentCalendarLocalId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AppointmentCalendarCancelMeetingRequest.AppointmentCalendarLocalId");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.AppointmentLocalId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AppointmentCalendarCancelMeetingRequest.AppointmentLocalId");
+				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.AppointmentLocalId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AppointmentCalendarCancelMeetingRequest.AppointmentLocalId");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DateTimeOffset? AppointmentCalendarCancelMeetingRequest.AppointmentOriginalStartTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DateTimeOffset%3F%20AppointmentCalendarCancelMeetingRequest.AppointmentOriginalStartTime");
+				throw new global::System.NotImplementedException("The member DateTimeOffset? AppointmentCalendarCancelMeetingRequest.AppointmentOriginalStartTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DateTimeOffset%3F%20AppointmentCalendarCancelMeetingRequest.AppointmentOriginalStartTime");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.Comment is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AppointmentCalendarCancelMeetingRequest.Comment");
+				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.Comment is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AppointmentCalendarCancelMeetingRequest.Comment");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool AppointmentCalendarCancelMeetingRequest.NotifyInvitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20AppointmentCalendarCancelMeetingRequest.NotifyInvitees");
+				throw new global::System.NotImplementedException("The member bool AppointmentCalendarCancelMeetingRequest.NotifyInvitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20AppointmentCalendarCancelMeetingRequest.NotifyInvitees");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.Subject is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AppointmentCalendarCancelMeetingRequest.Subject");
+				throw new global::System.NotImplementedException("The member string AppointmentCalendarCancelMeetingRequest.Subject is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AppointmentCalendarCancelMeetingRequest.Subject");
 			}
 		}
 		#endif
@@ -77,14 +77,14 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction ReportCompletedAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction AppointmentCalendarCancelMeetingRequest.ReportCompletedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20AppointmentCalendarCancelMeetingRequest.ReportCompletedAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction AppointmentCalendarCancelMeetingRequest.ReportCompletedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20AppointmentCalendarCancelMeetingRequest.ReportCompletedAsync%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction ReportFailedAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction AppointmentCalendarCancelMeetingRequest.ReportFailedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20AppointmentCalendarCancelMeetingRequest.ReportFailedAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction AppointmentCalendarCancelMeetingRequest.ReportFailedAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20AppointmentCalendarCancelMeetingRequest.ReportFailedAsync%28%29");
 		}
 		#endif
 	}

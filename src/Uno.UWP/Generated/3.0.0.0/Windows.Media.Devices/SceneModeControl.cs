@@ -13,7 +13,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<CaptureSceneMode> SceneModeControl.SupportedModes is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CCaptureSceneMode%3E%20SceneModeControl.SupportedModes");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<CaptureSceneMode> SceneModeControl.SupportedModes is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CCaptureSceneMode%3E%20SceneModeControl.SupportedModes");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CaptureSceneMode SceneModeControl.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CaptureSceneMode%20SceneModeControl.Value");
+				throw new global::System.NotImplementedException("The member CaptureSceneMode SceneModeControl.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CaptureSceneMode%20SceneModeControl.Value");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Media.Devices
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction SetValueAsync( global::Windows.Media.Devices.CaptureSceneMode sceneMode)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction SceneModeControl.SetValueAsync(CaptureSceneMode sceneMode) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20SceneModeControl.SetValueAsync%28CaptureSceneMode%20sceneMode%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction SceneModeControl.SetValueAsync(CaptureSceneMode sceneMode) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20SceneModeControl.SetValueAsync%28CaptureSceneMode%20sceneMode%29");
 		}
 		#endif
 	}

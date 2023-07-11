@@ -13,7 +13,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackList.ShuffleEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackList.ShuffleEnabled");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackList.ShuffleEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackList.ShuffleEnabled");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackList.AutoRepeatEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackList.AutoRepeatEnabled");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackList.AutoRepeatEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackList.AutoRepeatEnabled");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.CurrentItem is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackItem%20MediaPlaybackList.CurrentItem");
+				throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.CurrentItem is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackItem%20MediaPlaybackList.CurrentItem");
 			}
 		}
 		#endif
@@ -51,7 +51,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint MediaPlaybackList.CurrentItemIndex is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20MediaPlaybackList.CurrentItemIndex");
+				throw new global::System.NotImplementedException("The member uint MediaPlaybackList.CurrentItemIndex is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20MediaPlaybackList.CurrentItemIndex");
 			}
 		}
 		#endif
@@ -61,7 +61,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IObservableVector<MediaPlaybackItem> MediaPlaybackList.Items is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IObservableVector%3CMediaPlaybackItem%3E%20MediaPlaybackList.Items");
+				throw new global::System.NotImplementedException("The member IObservableVector<MediaPlaybackItem> MediaPlaybackList.Items is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IObservableVector%3CMediaPlaybackItem%3E%20MediaPlaybackList.Items");
 			}
 		}
 		#endif
@@ -71,7 +71,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.StartingItem is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackItem%20MediaPlaybackList.StartingItem");
+				throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.StartingItem is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackItem%20MediaPlaybackList.StartingItem");
 			}
 			set
 			{
@@ -85,7 +85,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member TimeSpan? MediaPlaybackList.MaxPrefetchTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=TimeSpan%3F%20MediaPlaybackList.MaxPrefetchTime");
+				throw new global::System.NotImplementedException("The member TimeSpan? MediaPlaybackList.MaxPrefetchTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=TimeSpan%3F%20MediaPlaybackList.MaxPrefetchTime");
 			}
 			set
 			{
@@ -99,7 +99,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<MediaPlaybackItem> MediaPlaybackList.ShuffledItems is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CMediaPlaybackItem%3E%20MediaPlaybackList.ShuffledItems");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<MediaPlaybackItem> MediaPlaybackList.ShuffledItems is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CMediaPlaybackItem%3E%20MediaPlaybackList.ShuffledItems");
 			}
 		}
 		#endif
@@ -109,7 +109,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint? MediaPlaybackList.MaxPlayedItemsToKeepOpen is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%3F%20MediaPlaybackList.MaxPlayedItemsToKeepOpen");
+				throw new global::System.NotImplementedException("The member uint? MediaPlaybackList.MaxPlayedItemsToKeepOpen is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%3F%20MediaPlaybackList.MaxPlayedItemsToKeepOpen");
 			}
 			set
 			{
@@ -142,21 +142,21 @@ namespace Windows.Media.Playback
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.Playback.MediaPlaybackItem MoveNext()
 		{
-			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MoveNext() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackItem%20MediaPlaybackList.MoveNext%28%29");
+			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MoveNext() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackItem%20MediaPlaybackList.MoveNext%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.Playback.MediaPlaybackItem MovePrevious()
 		{
-			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MovePrevious() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackItem%20MediaPlaybackList.MovePrevious%28%29");
+			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MovePrevious() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackItem%20MediaPlaybackList.MovePrevious%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.Playback.MediaPlaybackItem MoveTo( uint itemIndex)
 		{
-			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MoveTo(uint itemIndex) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackItem%20MediaPlaybackList.MoveTo%28uint%20itemIndex%29");
+			throw new global::System.NotImplementedException("The member MediaPlaybackItem MediaPlaybackList.MoveTo(uint itemIndex) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackItem%20MediaPlaybackList.MoveTo%28uint%20itemIndex%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Media.Playback.MediaPlaybackList.MaxPrefetchTime.get

@@ -5,7 +5,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 	#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class ProgressRingAutomationPeer : global::Windows.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer,global::Windows.UI.Xaml.Automation.Provider.IRangeValueProvider
+	public  partial class ProgressRingAutomationPeer : global::Microsoft.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer,global::Microsoft.UI.Xaml.Automation.Provider.IRangeValueProvider
 	{
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
@@ -13,7 +13,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool ProgressRingAutomationPeer.IsReadOnly is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20ProgressRingAutomationPeer.IsReadOnly");
+				throw new global::System.NotImplementedException("The member bool ProgressRingAutomationPeer.IsReadOnly is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20ProgressRingAutomationPeer.IsReadOnly");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.LargeChange is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingAutomationPeer.LargeChange");
+				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.LargeChange is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingAutomationPeer.LargeChange");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Maximum is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingAutomationPeer.Maximum");
+				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Maximum is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingAutomationPeer.Maximum");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Minimum is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingAutomationPeer.Minimum");
+				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Minimum is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingAutomationPeer.Minimum");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.SmallChange is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingAutomationPeer.SmallChange");
+				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.SmallChange is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingAutomationPeer.SmallChange");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressRingAutomationPeer.Value");
+				throw new global::System.NotImplementedException("The member double ProgressRingAutomationPeer.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressRingAutomationPeer.Value");
 			}
 		}
 		#endif
@@ -88,6 +88,6 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 			global::Windows.Foundation.Metadata.ApiInformation.TryRaiseNotImplemented("Microsoft.UI.Xaml.Automation.Peers.ProgressRingAutomationPeer", "void ProgressRingAutomationPeer.SetValue(double value)");
 		}
 		#endif
-		// Processing: Windows.UI.Xaml.Automation.Provider.IRangeValueProvider
+		// Processing: Microsoft.UI.Xaml.Automation.Provider.IRangeValueProvider
 	}
 }

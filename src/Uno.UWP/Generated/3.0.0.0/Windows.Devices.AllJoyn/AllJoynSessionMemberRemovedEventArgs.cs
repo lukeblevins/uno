@@ -14,7 +14,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynSessionMemberRemovedEventArgs.UniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynSessionMemberRemovedEventArgs.UniqueName");
+				throw new global::System.NotImplementedException("The member string AllJoynSessionMemberRemovedEventArgs.UniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynSessionMemberRemovedEventArgs.UniqueName");
 			}
 		}
 		#endif

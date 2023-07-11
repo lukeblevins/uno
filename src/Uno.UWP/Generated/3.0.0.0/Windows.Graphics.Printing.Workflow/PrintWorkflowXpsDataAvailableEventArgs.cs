@@ -13,7 +13,7 @@ namespace Windows.Graphics.Printing.Workflow
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member PrintWorkflowSubmittedOperation PrintWorkflowXpsDataAvailableEventArgs.Operation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PrintWorkflowSubmittedOperation%20PrintWorkflowXpsDataAvailableEventArgs.Operation");
+				throw new global::System.NotImplementedException("The member PrintWorkflowSubmittedOperation PrintWorkflowXpsDataAvailableEventArgs.Operation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PrintWorkflowSubmittedOperation%20PrintWorkflowXpsDataAvailableEventArgs.Operation");
 			}
 		}
 		#endif
@@ -22,7 +22,7 @@ namespace Windows.Graphics.Printing.Workflow
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral PrintWorkflowXpsDataAvailableEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20PrintWorkflowXpsDataAvailableEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral PrintWorkflowXpsDataAvailableEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20PrintWorkflowXpsDataAvailableEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

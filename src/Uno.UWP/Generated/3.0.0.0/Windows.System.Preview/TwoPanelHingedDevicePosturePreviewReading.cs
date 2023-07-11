@@ -14,7 +14,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member HingeState TwoPanelHingedDevicePosturePreviewReading.HingeState is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=HingeState%20TwoPanelHingedDevicePosturePreviewReading.HingeState");
+				throw new global::System.NotImplementedException("The member HingeState TwoPanelHingedDevicePosturePreviewReading.HingeState is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=HingeState%20TwoPanelHingedDevicePosturePreviewReading.HingeState");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string TwoPanelHingedDevicePosturePreviewReading.Panel1Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20TwoPanelHingedDevicePosturePreviewReading.Panel1Id");
+				throw new global::System.NotImplementedException("The member string TwoPanelHingedDevicePosturePreviewReading.Panel1Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20TwoPanelHingedDevicePosturePreviewReading.Panel1Id");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member SimpleOrientation TwoPanelHingedDevicePosturePreviewReading.Panel1Orientation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=SimpleOrientation%20TwoPanelHingedDevicePosturePreviewReading.Panel1Orientation");
+				throw new global::System.NotImplementedException("The member SimpleOrientation TwoPanelHingedDevicePosturePreviewReading.Panel1Orientation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=SimpleOrientation%20TwoPanelHingedDevicePosturePreviewReading.Panel1Orientation");
 			}
 		}
 		#endif
@@ -44,7 +44,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string TwoPanelHingedDevicePosturePreviewReading.Panel2Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20TwoPanelHingedDevicePosturePreviewReading.Panel2Id");
+				throw new global::System.NotImplementedException("The member string TwoPanelHingedDevicePosturePreviewReading.Panel2Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20TwoPanelHingedDevicePosturePreviewReading.Panel2Id");
 			}
 		}
 		#endif
@@ -54,7 +54,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member SimpleOrientation TwoPanelHingedDevicePosturePreviewReading.Panel2Orientation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=SimpleOrientation%20TwoPanelHingedDevicePosturePreviewReading.Panel2Orientation");
+				throw new global::System.NotImplementedException("The member SimpleOrientation TwoPanelHingedDevicePosturePreviewReading.Panel2Orientation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=SimpleOrientation%20TwoPanelHingedDevicePosturePreviewReading.Panel2Orientation");
 			}
 		}
 		#endif
@@ -64,7 +64,7 @@ namespace Windows.System.Preview
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DateTimeOffset TwoPanelHingedDevicePosturePreviewReading.Timestamp is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DateTimeOffset%20TwoPanelHingedDevicePosturePreviewReading.Timestamp");
+				throw new global::System.NotImplementedException("The member DateTimeOffset TwoPanelHingedDevicePosturePreviewReading.Timestamp is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DateTimeOffset%20TwoPanelHingedDevicePosturePreviewReading.Timestamp");
 			}
 		}
 		#endif

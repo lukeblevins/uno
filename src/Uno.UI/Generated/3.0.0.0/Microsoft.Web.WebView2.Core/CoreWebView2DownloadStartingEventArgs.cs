@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2DownloadStartingEventArgs.ResultFilePath is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2DownloadStartingEventArgs.ResultFilePath");
+				throw new global::System.NotImplementedException("The member string CoreWebView2DownloadStartingEventArgs.ResultFilePath is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2DownloadStartingEventArgs.ResultFilePath");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2DownloadStartingEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2DownloadStartingEventArgs.Handled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2DownloadStartingEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2DownloadStartingEventArgs.Handled");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2DownloadStartingEventArgs.Cancel is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2DownloadStartingEventArgs.Cancel");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2DownloadStartingEventArgs.Cancel is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2DownloadStartingEventArgs.Cancel");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2DownloadOperation CoreWebView2DownloadStartingEventArgs.DownloadOperation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2DownloadOperation%20CoreWebView2DownloadStartingEventArgs.DownloadOperation");
+				throw new global::System.NotImplementedException("The member CoreWebView2DownloadOperation CoreWebView2DownloadStartingEventArgs.DownloadOperation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2DownloadOperation%20CoreWebView2DownloadStartingEventArgs.DownloadOperation");
 			}
 		}
 		#endif
@@ -70,7 +70,7 @@ namespace Microsoft.Web.WebView2.Core
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral CoreWebView2DownloadStartingEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20CoreWebView2DownloadStartingEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral CoreWebView2DownloadStartingEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20CoreWebView2DownloadStartingEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

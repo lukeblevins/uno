@@ -14,7 +14,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAboutData.DefaultDescription");
+				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAboutData.DefaultDescription");
 			}
 			set
 			{
@@ -28,7 +28,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultAppName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAboutData.DefaultAppName");
+				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultAppName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAboutData.DefaultAppName");
 			}
 			set
 			{
@@ -42,7 +42,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DateTimeOffset? AllJoynAboutData.DateOfManufacture is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DateTimeOffset%3F%20AllJoynAboutData.DateOfManufacture");
+				throw new global::System.NotImplementedException("The member DateTimeOffset? AllJoynAboutData.DateOfManufacture is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DateTimeOffset%3F%20AllJoynAboutData.DateOfManufacture");
 			}
 			set
 			{
@@ -56,7 +56,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultManufacturer is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAboutData.DefaultManufacturer");
+				throw new global::System.NotImplementedException("The member string AllJoynAboutData.DefaultManufacturer is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAboutData.DefaultManufacturer");
 			}
 			set
 			{
@@ -70,7 +70,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Guid AllJoynAboutData.AppId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Guid%20AllJoynAboutData.AppId");
+				throw new global::System.NotImplementedException("The member Guid AllJoynAboutData.AppId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Guid%20AllJoynAboutData.AppId");
 			}
 			set
 			{
@@ -84,7 +84,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Uri AllJoynAboutData.SupportUrl is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Uri%20AllJoynAboutData.SupportUrl");
+				throw new global::System.NotImplementedException("The member Uri AllJoynAboutData.SupportUrl is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Uri%20AllJoynAboutData.SupportUrl");
 			}
 			set
 			{
@@ -98,7 +98,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAboutData.SoftwareVersion is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAboutData.SoftwareVersion");
+				throw new global::System.NotImplementedException("The member string AllJoynAboutData.SoftwareVersion is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAboutData.SoftwareVersion");
 			}
 			set
 			{
@@ -112,7 +112,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAboutData.ModelNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAboutData.ModelNumber");
+				throw new global::System.NotImplementedException("The member string AllJoynAboutData.ModelNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAboutData.ModelNumber");
 			}
 			set
 			{
@@ -126,7 +126,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool AllJoynAboutData.IsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20AllJoynAboutData.IsEnabled");
+				throw new global::System.NotImplementedException("The member bool AllJoynAboutData.IsEnabled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20AllJoynAboutData.IsEnabled");
 			}
 			set
 			{
@@ -140,7 +140,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.AppNames is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.AppNames");
+				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.AppNames is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.AppNames");
 			}
 		}
 		#endif
@@ -150,7 +150,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.Manufacturers is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.Manufacturers");
+				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.Manufacturers is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.Manufacturers");
 			}
 		}
 		#endif
@@ -160,7 +160,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.Descriptions is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.Descriptions");
+				throw new global::System.NotImplementedException("The member IDictionary<string, string> AllJoynAboutData.Descriptions is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IDictionary%3Cstring%2C%20string%3E%20AllJoynAboutData.Descriptions");
 			}
 		}
 		#endif

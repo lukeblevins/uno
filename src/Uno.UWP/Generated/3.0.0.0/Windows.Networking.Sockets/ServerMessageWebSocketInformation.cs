@@ -13,7 +13,7 @@ namespace Windows.Networking.Sockets
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member BandwidthStatistics ServerMessageWebSocketInformation.BandwidthStatistics is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=BandwidthStatistics%20ServerMessageWebSocketInformation.BandwidthStatistics");
+				throw new global::System.NotImplementedException("The member BandwidthStatistics ServerMessageWebSocketInformation.BandwidthStatistics is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=BandwidthStatistics%20ServerMessageWebSocketInformation.BandwidthStatistics");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Networking.Sockets
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member HostName ServerMessageWebSocketInformation.LocalAddress is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=HostName%20ServerMessageWebSocketInformation.LocalAddress");
+				throw new global::System.NotImplementedException("The member HostName ServerMessageWebSocketInformation.LocalAddress is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=HostName%20ServerMessageWebSocketInformation.LocalAddress");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Networking.Sockets
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string ServerMessageWebSocketInformation.Protocol is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20ServerMessageWebSocketInformation.Protocol");
+				throw new global::System.NotImplementedException("The member string ServerMessageWebSocketInformation.Protocol is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20ServerMessageWebSocketInformation.Protocol");
 			}
 		}
 		#endif

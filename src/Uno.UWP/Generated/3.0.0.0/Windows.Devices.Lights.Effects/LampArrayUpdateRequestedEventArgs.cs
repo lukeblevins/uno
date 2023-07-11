@@ -13,7 +13,7 @@ namespace Windows.Devices.Lights.Effects
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member TimeSpan LampArrayUpdateRequestedEventArgs.SinceStarted is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=TimeSpan%20LampArrayUpdateRequestedEventArgs.SinceStarted");
+				throw new global::System.NotImplementedException("The member TimeSpan LampArrayUpdateRequestedEventArgs.SinceStarted is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=TimeSpan%20LampArrayUpdateRequestedEventArgs.SinceStarted");
 			}
 		}
 		#endif

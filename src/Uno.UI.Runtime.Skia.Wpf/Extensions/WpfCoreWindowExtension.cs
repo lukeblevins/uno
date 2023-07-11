@@ -5,7 +5,7 @@ using Uno.Foundation.Logging;
 using Uno.UI.Runtime.Skia.Wpf;
 using Uno.UI.Skia.Platform.Extensions;
 using Windows.UI.Core;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
 using WpfCanvas = System.Windows.Controls.Canvas;
 using WpfUIElement = System.Windows.UIElement;
 

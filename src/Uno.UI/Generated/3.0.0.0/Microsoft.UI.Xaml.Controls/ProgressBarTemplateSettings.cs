@@ -5,7 +5,7 @@ namespace Microsoft.UI.Xaml.Controls
 	#if false || false || false || false || false || false || false
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class ProgressBarTemplateSettings : global::Windows.UI.Xaml.DependencyObject
+	public  partial class ProgressBarTemplateSettings : global::Microsoft.UI.Xaml.DependencyObject
 	{
 		// Skipping already declared property ClipRect
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
@@ -14,7 +14,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.Container2AnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.Container2AnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.Container2AnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.Container2AnimationEndPosition");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.Container2AnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.Container2AnimationStartPosition");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.Container2AnimationStartPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.Container2AnimationStartPosition");
 			}
 		}
 		#endif
@@ -37,7 +37,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.EllipseAnimationEndPosition");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseAnimationEndPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.EllipseAnimationEndPosition");
 			}
 		}
 		#endif
@@ -47,7 +47,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseAnimationWellPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.EllipseAnimationWellPosition");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseAnimationWellPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.EllipseAnimationWellPosition");
 			}
 		}
 		#endif
@@ -57,7 +57,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseDiameter is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.EllipseDiameter");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseDiameter is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.EllipseDiameter");
 			}
 		}
 		#endif
@@ -67,7 +67,7 @@ namespace Microsoft.UI.Xaml.Controls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseOffset is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20ProgressBarTemplateSettings.EllipseOffset");
+				throw new global::System.NotImplementedException("The member double ProgressBarTemplateSettings.EllipseOffset is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20ProgressBarTemplateSettings.EllipseOffset");
 			}
 		}
 		#endif

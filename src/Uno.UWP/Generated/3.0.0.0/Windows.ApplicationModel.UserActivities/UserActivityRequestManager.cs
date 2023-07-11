@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.UserActivities
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.ApplicationModel.UserActivities.UserActivityRequestManager GetForCurrentView()
 		{
-			throw new global::System.NotImplementedException("The member UserActivityRequestManager UserActivityRequestManager.GetForCurrentView() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=UserActivityRequestManager%20UserActivityRequestManager.GetForCurrentView%28%29");
+			throw new global::System.NotImplementedException("The member UserActivityRequestManager UserActivityRequestManager.GetForCurrentView() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=UserActivityRequestManager%20UserActivityRequestManager.GetForCurrentView%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__

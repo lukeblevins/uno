@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Calls.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.Location is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PhoneCallOrigin.Location");
+				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.Location is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PhoneCallOrigin.Location");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Windows.ApplicationModel.Calls.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.CategoryDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PhoneCallOrigin.CategoryDescription");
+				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.CategoryDescription is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PhoneCallOrigin.CategoryDescription");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Windows.ApplicationModel.Calls.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.Category is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PhoneCallOrigin.Category");
+				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.Category is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PhoneCallOrigin.Category");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Windows.ApplicationModel.Calls.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.DisplayName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PhoneCallOrigin.DisplayName");
+				throw new global::System.NotImplementedException("The member string PhoneCallOrigin.DisplayName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PhoneCallOrigin.DisplayName");
 			}
 			set
 			{
@@ -69,7 +69,7 @@ namespace Windows.ApplicationModel.Calls.Provider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member StorageFile PhoneCallOrigin.DisplayPicture is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=StorageFile%20PhoneCallOrigin.DisplayPicture");
+				throw new global::System.NotImplementedException("The member StorageFile PhoneCallOrigin.DisplayPicture is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=StorageFile%20PhoneCallOrigin.DisplayPicture");
 			}
 			set
 			{

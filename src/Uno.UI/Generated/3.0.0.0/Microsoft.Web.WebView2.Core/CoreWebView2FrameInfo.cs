@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2FrameInfo.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2FrameInfo.Name");
+				throw new global::System.NotImplementedException("The member string CoreWebView2FrameInfo.Name is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2FrameInfo.Name");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2FrameInfo.Source is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2FrameInfo.Source");
+				throw new global::System.NotImplementedException("The member string CoreWebView2FrameInfo.Source is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2FrameInfo.Source");
 			}
 		}
 		#endif

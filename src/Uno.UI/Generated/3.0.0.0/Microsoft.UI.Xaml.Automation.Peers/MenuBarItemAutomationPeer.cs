@@ -5,15 +5,15 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 	#if false || false || false || false || false || false || false
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class MenuBarItemAutomationPeer : global::Windows.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer,global::Windows.UI.Xaml.Automation.Provider.IExpandCollapseProvider,global::Windows.UI.Xaml.Automation.Provider.IInvokeProvider
+	public  partial class MenuBarItemAutomationPeer : global::Microsoft.UI.Xaml.Automation.Peers.FrameworkElementAutomationPeer,global::Microsoft.UI.Xaml.Automation.Provider.IExpandCollapseProvider,global::Microsoft.UI.Xaml.Automation.Provider.IInvokeProvider
 	{
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
-		public  global::Windows.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState
+		public  global::Microsoft.UI.Xaml.Automation.ExpandCollapseState ExpandCollapseState
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ExpandCollapseState MenuBarItemAutomationPeer.ExpandCollapseState is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ExpandCollapseState%20MenuBarItemAutomationPeer.ExpandCollapseState");
+				throw new global::System.NotImplementedException("The member ExpandCollapseState MenuBarItemAutomationPeer.ExpandCollapseState is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ExpandCollapseState%20MenuBarItemAutomationPeer.ExpandCollapseState");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.UI.Xaml.Automation.Peers
 		// Skipping already declared method Microsoft.UI.Xaml.Automation.Peers.MenuBarItemAutomationPeer.Collapse()
 		// Skipping already declared method Microsoft.UI.Xaml.Automation.Peers.MenuBarItemAutomationPeer.Expand()
 		// Skipping already declared method Microsoft.UI.Xaml.Automation.Peers.MenuBarItemAutomationPeer.Invoke()
-		// Processing: Windows.UI.Xaml.Automation.Provider.IExpandCollapseProvider
-		// Processing: Windows.UI.Xaml.Automation.Provider.IInvokeProvider
+		// Processing: Microsoft.UI.Xaml.Automation.Provider.IExpandCollapseProvider
+		// Processing: Microsoft.UI.Xaml.Automation.Provider.IInvokeProvider
 	}
 }

@@ -18,7 +18,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentBusyStatus Appointment.BusyStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentBusyStatus%20Appointment.BusyStatus");
+				throw new global::System.NotImplementedException("The member AppointmentBusyStatus Appointment.BusyStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentBusyStatus%20Appointment.BusyStatus");
 			}
 			set
 			{
@@ -32,7 +32,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentRecurrence Appointment.Recurrence is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentRecurrence%20Appointment.Recurrence");
+				throw new global::System.NotImplementedException("The member AppointmentRecurrence Appointment.Recurrence is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentRecurrence%20Appointment.Recurrence");
 			}
 			set
 			{
@@ -47,7 +47,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Uri Appointment.Uri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Uri%20Appointment.Uri");
+				throw new global::System.NotImplementedException("The member Uri Appointment.Uri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Uri%20Appointment.Uri");
 			}
 			set
 			{
@@ -62,7 +62,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentSensitivity Appointment.Sensitivity is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentSensitivity%20Appointment.Sensitivity");
+				throw new global::System.NotImplementedException("The member AppointmentSensitivity Appointment.Sensitivity is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentSensitivity%20Appointment.Sensitivity");
 			}
 			set
 			{
@@ -77,7 +77,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<AppointmentInvitee> Appointment.Invitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CAppointmentInvitee%3E%20Appointment.Invitees");
+				throw new global::System.NotImplementedException("The member IList<AppointmentInvitee> Appointment.Invitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CAppointmentInvitee%3E%20Appointment.Invitees");
 			}
 		}
 		#endif
@@ -87,7 +87,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool Appointment.AllowNewTimeProposal is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20Appointment.AllowNewTimeProposal");
+				throw new global::System.NotImplementedException("The member bool Appointment.AllowNewTimeProposal is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20Appointment.AllowNewTimeProposal");
 			}
 			set
 			{
@@ -101,7 +101,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentParticipantResponse Appointment.UserResponse is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentParticipantResponse%20Appointment.UserResponse");
+				throw new global::System.NotImplementedException("The member AppointmentParticipantResponse Appointment.UserResponse is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentParticipantResponse%20Appointment.UserResponse");
 			}
 			set
 			{
@@ -115,7 +115,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string Appointment.RoamingId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20Appointment.RoamingId");
+				throw new global::System.NotImplementedException("The member string Appointment.RoamingId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20Appointment.RoamingId");
 			}
 			set
 			{
@@ -129,7 +129,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DateTimeOffset? Appointment.ReplyTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DateTimeOffset%3F%20Appointment.ReplyTime");
+				throw new global::System.NotImplementedException("The member DateTimeOffset? Appointment.ReplyTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DateTimeOffset%3F%20Appointment.ReplyTime");
 			}
 			set
 			{
@@ -143,7 +143,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool Appointment.IsResponseRequested is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20Appointment.IsResponseRequested");
+				throw new global::System.NotImplementedException("The member bool Appointment.IsResponseRequested is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20Appointment.IsResponseRequested");
 			}
 			set
 			{
@@ -157,7 +157,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool Appointment.IsOrganizedByUser is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20Appointment.IsOrganizedByUser");
+				throw new global::System.NotImplementedException("The member bool Appointment.IsOrganizedByUser is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20Appointment.IsOrganizedByUser");
 			}
 			set
 			{
@@ -171,7 +171,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool Appointment.IsCanceledMeeting is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20Appointment.IsCanceledMeeting");
+				throw new global::System.NotImplementedException("The member bool Appointment.IsCanceledMeeting is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20Appointment.IsCanceledMeeting");
 			}
 			set
 			{
@@ -185,7 +185,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string Appointment.OnlineMeetingLink is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20Appointment.OnlineMeetingLink");
+				throw new global::System.NotImplementedException("The member string Appointment.OnlineMeetingLink is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20Appointment.OnlineMeetingLink");
 			}
 			set
 			{
@@ -199,7 +199,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool Appointment.HasInvitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20Appointment.HasInvitees");
+				throw new global::System.NotImplementedException("The member bool Appointment.HasInvitees is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20Appointment.HasInvitees");
 			}
 		}
 		#endif
@@ -211,7 +211,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DateTimeOffset? Appointment.OriginalStartTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DateTimeOffset%3F%20Appointment.OriginalStartTime");
+				throw new global::System.NotImplementedException("The member DateTimeOffset? Appointment.OriginalStartTime is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DateTimeOffset%3F%20Appointment.OriginalStartTime");
 			}
 		}
 		#endif
@@ -221,7 +221,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ulong Appointment.RemoteChangeNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ulong%20Appointment.RemoteChangeNumber");
+				throw new global::System.NotImplementedException("The member ulong Appointment.RemoteChangeNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ulong%20Appointment.RemoteChangeNumber");
 			}
 			set
 			{
@@ -235,7 +235,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentDetailsKind Appointment.DetailsKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentDetailsKind%20Appointment.DetailsKind");
+				throw new global::System.NotImplementedException("The member AppointmentDetailsKind Appointment.DetailsKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentDetailsKind%20Appointment.DetailsKind");
 			}
 			set
 			{
@@ -249,7 +249,7 @@ namespace Windows.ApplicationModel.Appointments
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ulong Appointment.ChangeNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ulong%20Appointment.ChangeNumber");
+				throw new global::System.NotImplementedException("The member ulong Appointment.ChangeNumber is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ulong%20Appointment.ChangeNumber");
 			}
 		}
 		#endif

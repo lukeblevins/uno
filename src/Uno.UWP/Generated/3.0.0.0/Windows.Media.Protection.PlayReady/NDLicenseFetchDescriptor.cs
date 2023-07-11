@@ -14,7 +14,7 @@ namespace Windows.Media.Protection.PlayReady
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member INDCustomData NDLicenseFetchDescriptor.LicenseFetchChallengeCustomData is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=INDCustomData%20NDLicenseFetchDescriptor.LicenseFetchChallengeCustomData");
+				throw new global::System.NotImplementedException("The member INDCustomData NDLicenseFetchDescriptor.LicenseFetchChallengeCustomData is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=INDCustomData%20NDLicenseFetchDescriptor.LicenseFetchChallengeCustomData");
 			}
 			set
 			{
@@ -28,7 +28,7 @@ namespace Windows.Media.Protection.PlayReady
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member byte[] NDLicenseFetchDescriptor.ContentID is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=byte%5B%5D%20NDLicenseFetchDescriptor.ContentID");
+				throw new global::System.NotImplementedException("The member byte[] NDLicenseFetchDescriptor.ContentID is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=byte%5B%5D%20NDLicenseFetchDescriptor.ContentID");
 			}
 		}
 		#endif
@@ -38,7 +38,7 @@ namespace Windows.Media.Protection.PlayReady
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member NDContentIDType NDLicenseFetchDescriptor.ContentIDType is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=NDContentIDType%20NDLicenseFetchDescriptor.ContentIDType");
+				throw new global::System.NotImplementedException("The member NDContentIDType NDLicenseFetchDescriptor.ContentIDType is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=NDContentIDType%20NDLicenseFetchDescriptor.ContentIDType");
 			}
 		}
 		#endif

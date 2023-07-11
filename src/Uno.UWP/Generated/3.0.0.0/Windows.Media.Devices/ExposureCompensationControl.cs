@@ -13,7 +13,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Max is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20ExposureCompensationControl.Max");
+				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Max is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20ExposureCompensationControl.Max");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Min is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20ExposureCompensationControl.Min");
+				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Min is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20ExposureCompensationControl.Min");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Step is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20ExposureCompensationControl.Step");
+				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Step is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20ExposureCompensationControl.Step");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool ExposureCompensationControl.Supported is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20ExposureCompensationControl.Supported");
+				throw new global::System.NotImplementedException("The member bool ExposureCompensationControl.Supported is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20ExposureCompensationControl.Supported");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.Media.Devices
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=float%20ExposureCompensationControl.Value");
+				throw new global::System.NotImplementedException("The member float ExposureCompensationControl.Value is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=float%20ExposureCompensationControl.Value");
 			}
 		}
 		#endif
@@ -66,7 +66,7 @@ namespace Windows.Media.Devices
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncAction SetValueAsync( float value)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncAction ExposureCompensationControl.SetValueAsync(float value) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncAction%20ExposureCompensationControl.SetValueAsync%28float%20value%29");
+			throw new global::System.NotImplementedException("The member IAsyncAction ExposureCompensationControl.SetValueAsync(float value) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncAction%20ExposureCompensationControl.SetValueAsync%28float%20value%29");
 		}
 		#endif
 	}

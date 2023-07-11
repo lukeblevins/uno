@@ -14,7 +14,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member PlayToConnectionError PlayToConnectionErrorEventArgs.Code is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PlayToConnectionError%20PlayToConnectionErrorEventArgs.Code");
+				throw new global::System.NotImplementedException("The member PlayToConnectionError PlayToConnectionErrorEventArgs.Code is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PlayToConnectionError%20PlayToConnectionErrorEventArgs.Code");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Media.PlayTo
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PlayToConnectionErrorEventArgs.Message is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PlayToConnectionErrorEventArgs.Message");
+				throw new global::System.NotImplementedException("The member string PlayToConnectionErrorEventArgs.Message is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PlayToConnectionErrorEventArgs.Message");
 			}
 		}
 		#endif

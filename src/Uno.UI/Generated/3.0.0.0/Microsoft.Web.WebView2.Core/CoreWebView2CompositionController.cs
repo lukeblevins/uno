@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member object CoreWebView2CompositionController.RootVisualTarget is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=object%20CoreWebView2CompositionController.RootVisualTarget");
+				throw new global::System.NotImplementedException("The member object CoreWebView2CompositionController.RootVisualTarget is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=object%20CoreWebView2CompositionController.RootVisualTarget");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreCursor CoreWebView2CompositionController.Cursor is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreCursor%20CoreWebView2CompositionController.Cursor");
+				throw new global::System.NotImplementedException("The member CoreCursor CoreWebView2CompositionController.Cursor is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreCursor%20CoreWebView2CompositionController.Cursor");
 			}
 		}
 		#endif

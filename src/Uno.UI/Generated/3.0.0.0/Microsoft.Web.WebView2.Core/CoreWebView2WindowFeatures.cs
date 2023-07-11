@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.HasPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.HasPosition");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.HasPosition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.HasPosition");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.HasSize is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.HasSize");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.HasSize is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.HasSize");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Height is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20CoreWebView2WindowFeatures.Height");
+				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Height is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20CoreWebView2WindowFeatures.Height");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Left is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20CoreWebView2WindowFeatures.Left");
+				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Left is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20CoreWebView2WindowFeatures.Left");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayMenuBar is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.ShouldDisplayMenuBar");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayMenuBar is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.ShouldDisplayMenuBar");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayScrollBars is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.ShouldDisplayScrollBars");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayScrollBars is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.ShouldDisplayScrollBars");
 			}
 		}
 		#endif
@@ -73,7 +73,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.ShouldDisplayStatus");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.ShouldDisplayStatus");
 			}
 		}
 		#endif
@@ -83,7 +83,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayToolbar is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2WindowFeatures.ShouldDisplayToolbar");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2WindowFeatures.ShouldDisplayToolbar is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2WindowFeatures.ShouldDisplayToolbar");
 			}
 		}
 		#endif
@@ -93,7 +93,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Top is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20CoreWebView2WindowFeatures.Top");
+				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Top is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20CoreWebView2WindowFeatures.Top");
 			}
 		}
 		#endif
@@ -103,7 +103,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Width is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20CoreWebView2WindowFeatures.Width");
+				throw new global::System.NotImplementedException("The member uint CoreWebView2WindowFeatures.Width is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20CoreWebView2WindowFeatures.Width");
 			}
 		}
 		#endif

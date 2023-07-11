@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.FrameUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.FrameUri");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.FrameUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.FrameUri");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasLinkText is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.HasLinkText");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasLinkText is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.HasLinkText");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasLinkUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.HasLinkUri");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasLinkUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.HasLinkUri");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasSelection is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.HasSelection");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasSelection is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.HasSelection");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasSourceUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.HasSourceUri");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.HasSourceUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.HasSourceUri");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.IsEditable is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.IsEditable");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.IsEditable is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.IsEditable");
 			}
 		}
 		#endif
@@ -73,7 +73,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.IsRequestedForMainFrame is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ContextMenuTarget.IsRequestedForMainFrame");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ContextMenuTarget.IsRequestedForMainFrame is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ContextMenuTarget.IsRequestedForMainFrame");
 			}
 		}
 		#endif
@@ -83,7 +83,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2ContextMenuTargetKind CoreWebView2ContextMenuTarget.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2ContextMenuTargetKind%20CoreWebView2ContextMenuTarget.Kind");
+				throw new global::System.NotImplementedException("The member CoreWebView2ContextMenuTargetKind CoreWebView2ContextMenuTarget.Kind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2ContextMenuTargetKind%20CoreWebView2ContextMenuTarget.Kind");
 			}
 		}
 		#endif
@@ -93,7 +93,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.LinkText is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.LinkText");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.LinkText is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.LinkText");
 			}
 		}
 		#endif
@@ -103,7 +103,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.LinkUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.LinkUri");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.LinkUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.LinkUri");
 			}
 		}
 		#endif
@@ -113,7 +113,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.PageUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.PageUri");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.PageUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.PageUri");
 			}
 		}
 		#endif
@@ -123,7 +123,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.SelectionText is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.SelectionText");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.SelectionText is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.SelectionText");
 			}
 		}
 		#endif
@@ -133,7 +133,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.SourceUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ContextMenuTarget.SourceUri");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ContextMenuTarget.SourceUri is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ContextMenuTarget.SourceUri");
 			}
 		}
 		#endif

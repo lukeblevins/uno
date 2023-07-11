@@ -14,7 +14,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AllJoynBusAttachment AllJoynBusObject.BusAttachment is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AllJoynBusAttachment%20AllJoynBusObject.BusAttachment");
+				throw new global::System.NotImplementedException("The member AllJoynBusAttachment AllJoynBusObject.BusAttachment is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AllJoynBusAttachment%20AllJoynBusObject.BusAttachment");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AllJoynSession AllJoynBusObject.Session is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AllJoynSession%20AllJoynBusObject.Session");
+				throw new global::System.NotImplementedException("The member AllJoynSession AllJoynBusObject.Session is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AllJoynSession%20AllJoynBusObject.Session");
 			}
 		}
 		#endif

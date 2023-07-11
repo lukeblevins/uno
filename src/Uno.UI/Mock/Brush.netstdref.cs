@@ -5,7 +5,7 @@ using Uno.Extensions;
 using Uno.Disposables;
 using System.Drawing;
 
-namespace Windows.UI.Xaml.Media
+namespace Microsoft.UI.Xaml.Media
 {
 	//Android partial for Brush
 	public partial class Brush

@@ -14,7 +14,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaPlayer BackgroundMediaPlayer.Current is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlayer%20BackgroundMediaPlayer.Current");
+				throw new global::System.NotImplementedException("The member MediaPlayer BackgroundMediaPlayer.Current is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlayer%20BackgroundMediaPlayer.Current");
 			}
 		}
 		#endif
@@ -41,7 +41,7 @@ namespace Windows.Media.Playback
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static bool IsMediaPlaying()
 		{
-			throw new global::System.NotImplementedException("The member bool BackgroundMediaPlayer.IsMediaPlaying() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20BackgroundMediaPlayer.IsMediaPlaying%28%29");
+			throw new global::System.NotImplementedException("The member bool BackgroundMediaPlayer.IsMediaPlaying() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20BackgroundMediaPlayer.IsMediaPlaying%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__

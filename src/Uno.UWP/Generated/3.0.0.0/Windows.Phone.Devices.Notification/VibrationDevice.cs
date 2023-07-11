@@ -2,8 +2,8 @@
 #pragma warning disable 114 // new keyword hiding
 namespace Windows.Phone.Devices.Notification
 {
-	#if false || false || IS_UNIT_TESTS || false || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
-	[global::Uno.NotImplemented("IS_UNIT_TESTS", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
+	#if false || false || IS_UNIT_TESTS || false || __SKIA__ || false || __MACOS__
+	[global::Uno.NotImplemented("IS_UNIT_TESTS", "__SKIA__", "__MACOS__")]
 	#endif
 	public  partial class VibrationDevice 
 	{
@@ -25,7 +25,7 @@ namespace Windows.Phone.Devices.Notification
 		[global::Uno.NotImplemented("IS_UNIT_TESTS", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Phone.Devices.Notification.VibrationDevice GetDefault()
 		{
-			throw new global::System.NotImplementedException("The member VibrationDevice VibrationDevice.GetDefault() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=VibrationDevice%20VibrationDevice.GetDefault%28%29");
+			throw new global::System.NotImplementedException("The member VibrationDevice VibrationDevice.GetDefault() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=VibrationDevice%20VibrationDevice.GetDefault%28%29");
 		}
 		#endif
 	}

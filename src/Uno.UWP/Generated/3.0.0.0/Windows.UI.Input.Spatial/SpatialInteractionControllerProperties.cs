@@ -13,7 +13,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsThumbstickPressed is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20SpatialInteractionControllerProperties.IsThumbstickPressed");
+				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsThumbstickPressed is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20SpatialInteractionControllerProperties.IsThumbstickPressed");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsTouchpadPressed is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20SpatialInteractionControllerProperties.IsTouchpadPressed");
+				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsTouchpadPressed is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20SpatialInteractionControllerProperties.IsTouchpadPressed");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsTouchpadTouched is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20SpatialInteractionControllerProperties.IsTouchpadTouched");
+				throw new global::System.NotImplementedException("The member bool SpatialInteractionControllerProperties.IsTouchpadTouched is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20SpatialInteractionControllerProperties.IsTouchpadTouched");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.ThumbstickX is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20SpatialInteractionControllerProperties.ThumbstickX");
+				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.ThumbstickX is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20SpatialInteractionControllerProperties.ThumbstickX");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.ThumbstickY is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20SpatialInteractionControllerProperties.ThumbstickY");
+				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.ThumbstickY is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20SpatialInteractionControllerProperties.ThumbstickY");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.TouchpadX is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20SpatialInteractionControllerProperties.TouchpadX");
+				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.TouchpadX is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20SpatialInteractionControllerProperties.TouchpadX");
 			}
 		}
 		#endif
@@ -73,7 +73,7 @@ namespace Windows.UI.Input.Spatial
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.TouchpadY is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20SpatialInteractionControllerProperties.TouchpadY");
+				throw new global::System.NotImplementedException("The member double SpatialInteractionControllerProperties.TouchpadY is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20SpatialInteractionControllerProperties.TouchpadY");
 			}
 		}
 		#endif

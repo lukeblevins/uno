@@ -5,7 +5,7 @@ using System.Linq;
 using Gtk;
 using Windows.UI.Core;
 using Uno.Foundation.Logging;
-using Windows.UI.Xaml;
+using Microsoft.UI.Xaml;
 using Uno.UI.Hosting;
 using Uno.UI.Runtime.Skia.GTK.Hosting;
 using Uno.UI.Runtime.Skia.GTK;

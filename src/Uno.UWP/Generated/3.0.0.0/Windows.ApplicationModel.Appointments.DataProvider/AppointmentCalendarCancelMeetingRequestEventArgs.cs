@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AppointmentCalendarCancelMeetingRequest AppointmentCalendarCancelMeetingRequestEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AppointmentCalendarCancelMeetingRequest%20AppointmentCalendarCancelMeetingRequestEventArgs.Request");
+				throw new global::System.NotImplementedException("The member AppointmentCalendarCancelMeetingRequest AppointmentCalendarCancelMeetingRequestEventArgs.Request is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AppointmentCalendarCancelMeetingRequest%20AppointmentCalendarCancelMeetingRequestEventArgs.Request");
 			}
 		}
 		#endif
@@ -22,7 +22,7 @@ namespace Windows.ApplicationModel.Appointments.DataProvider
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral AppointmentCalendarCancelMeetingRequestEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20AppointmentCalendarCancelMeetingRequestEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral AppointmentCalendarCancelMeetingRequestEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20AppointmentCalendarCancelMeetingRequestEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

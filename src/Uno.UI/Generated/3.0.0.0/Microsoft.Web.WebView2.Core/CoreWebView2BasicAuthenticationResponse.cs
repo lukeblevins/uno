@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2BasicAuthenticationResponse.UserName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2BasicAuthenticationResponse.UserName");
+				throw new global::System.NotImplementedException("The member string CoreWebView2BasicAuthenticationResponse.UserName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2BasicAuthenticationResponse.UserName");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2BasicAuthenticationResponse.Password is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2BasicAuthenticationResponse.Password");
+				throw new global::System.NotImplementedException("The member string CoreWebView2BasicAuthenticationResponse.Password is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2BasicAuthenticationResponse.Password");
 			}
 			set
 			{

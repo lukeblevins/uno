@@ -13,7 +13,7 @@ namespace Windows.Media.DialProtocol
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member DialDevice DialDisconnectButtonClickedEventArgs.Device is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=DialDevice%20DialDisconnectButtonClickedEventArgs.Device");
+				throw new global::System.NotImplementedException("The member DialDevice DialDisconnectButtonClickedEventArgs.Device is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=DialDevice%20DialDisconnectButtonClickedEventArgs.Device");
 			}
 		}
 		#endif

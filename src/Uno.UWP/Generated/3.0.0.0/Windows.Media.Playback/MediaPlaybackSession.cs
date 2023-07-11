@@ -13,7 +13,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member StereoscopicVideoPackingMode MediaPlaybackSession.StereoscopicVideoPackingMode is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=StereoscopicVideoPackingMode%20MediaPlaybackSession.StereoscopicVideoPackingMode");
+				throw new global::System.NotImplementedException("The member StereoscopicVideoPackingMode MediaPlaybackSession.StereoscopicVideoPackingMode is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=StereoscopicVideoPackingMode%20MediaPlaybackSession.StereoscopicVideoPackingMode");
 			}
 			set
 			{
@@ -29,7 +29,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member Rect MediaPlaybackSession.NormalizedSourceRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Rect%20MediaPlaybackSession.NormalizedSourceRect");
+				throw new global::System.NotImplementedException("The member Rect MediaPlaybackSession.NormalizedSourceRect is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Rect%20MediaPlaybackSession.NormalizedSourceRect");
 			}
 			set
 			{
@@ -44,7 +44,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.CanPause is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackSession.CanPause");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.CanPause is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackSession.CanPause");
 			}
 		}
 		#endif
@@ -54,7 +54,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.CanSeek is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackSession.CanSeek");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.CanSeek is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackSession.CanSeek");
 			}
 		}
 		#endif
@@ -64,7 +64,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member double MediaPlaybackSession.DownloadProgress is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=double%20MediaPlaybackSession.DownloadProgress");
+				throw new global::System.NotImplementedException("The member double MediaPlaybackSession.DownloadProgress is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=double%20MediaPlaybackSession.DownloadProgress");
 			}
 		}
 		#endif
@@ -74,7 +74,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsProtected is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackSession.IsProtected");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsProtected is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackSession.IsProtected");
 			}
 		}
 		#endif
@@ -86,7 +86,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint MediaPlaybackSession.NaturalVideoHeight is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20MediaPlaybackSession.NaturalVideoHeight");
+				throw new global::System.NotImplementedException("The member uint MediaPlaybackSession.NaturalVideoHeight is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20MediaPlaybackSession.NaturalVideoHeight");
 			}
 		}
 		#endif
@@ -96,7 +96,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint MediaPlaybackSession.NaturalVideoWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20MediaPlaybackSession.NaturalVideoWidth");
+				throw new global::System.NotImplementedException("The member uint MediaPlaybackSession.NaturalVideoWidth is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20MediaPlaybackSession.NaturalVideoWidth");
 			}
 		}
 		#endif
@@ -107,7 +107,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsMirroring is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackSession.IsMirroring");
+				throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsMirroring is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackSession.IsMirroring");
 			}
 			set
 			{
@@ -121,7 +121,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaPlaybackSphericalVideoProjection MediaPlaybackSession.SphericalVideoProjection is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackSphericalVideoProjection%20MediaPlaybackSession.SphericalVideoProjection");
+				throw new global::System.NotImplementedException("The member MediaPlaybackSphericalVideoProjection MediaPlaybackSession.SphericalVideoProjection is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackSphericalVideoProjection%20MediaPlaybackSession.SphericalVideoProjection");
 			}
 		}
 		#endif
@@ -131,7 +131,7 @@ namespace Windows.Media.Playback
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member MediaRotation MediaPlaybackSession.PlaybackRotation is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaRotation%20MediaPlaybackSession.PlaybackRotation");
+				throw new global::System.NotImplementedException("The member MediaRotation MediaPlaybackSession.PlaybackRotation is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaRotation%20MediaPlaybackSession.PlaybackRotation");
 			}
 			set
 			{
@@ -192,28 +192,28 @@ namespace Windows.Media.Playback
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::System.Collections.Generic.IReadOnlyList<global::Windows.Media.MediaTimeRange> GetBufferedRanges()
 		{
-			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetBufferedRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetBufferedRanges%28%29");
+			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetBufferedRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetBufferedRanges%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::System.Collections.Generic.IReadOnlyList<global::Windows.Media.MediaTimeRange> GetPlayedRanges()
 		{
-			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetPlayedRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetPlayedRanges%28%29");
+			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetPlayedRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetPlayedRanges%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::System.Collections.Generic.IReadOnlyList<global::Windows.Media.MediaTimeRange> GetSeekableRanges()
 		{
-			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetSeekableRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetSeekableRanges%28%29");
+			throw new global::System.NotImplementedException("The member IReadOnlyList<MediaTimeRange> MediaPlaybackSession.GetSeekableRanges() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CMediaTimeRange%3E%20MediaPlaybackSession.GetSeekableRanges%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  bool IsSupportedPlaybackRateRange( double rate1,  double rate2)
 		{
-			throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsSupportedPlaybackRateRange(double rate1, double rate2) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20MediaPlaybackSession.IsSupportedPlaybackRateRange%28double%20rate1%2C%20double%20rate2%29");
+			throw new global::System.NotImplementedException("The member bool MediaPlaybackSession.IsSupportedPlaybackRateRange(double rate1, double rate2) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20MediaPlaybackSession.IsSupportedPlaybackRateRange%28double%20rate1%2C%20double%20rate2%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Media.Playback.MediaPlaybackSession.PlaybackRotation.get
@@ -222,7 +222,7 @@ namespace Windows.Media.Playback
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.Playback.MediaPlaybackSessionOutputDegradationPolicyState GetOutputDegradationPolicyState()
 		{
-			throw new global::System.NotImplementedException("The member MediaPlaybackSessionOutputDegradationPolicyState MediaPlaybackSession.GetOutputDegradationPolicyState() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaPlaybackSessionOutputDegradationPolicyState%20MediaPlaybackSession.GetOutputDegradationPolicyState%28%29");
+			throw new global::System.NotImplementedException("The member MediaPlaybackSessionOutputDegradationPolicyState MediaPlaybackSession.GetOutputDegradationPolicyState() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaPlaybackSessionOutputDegradationPolicyState%20MediaPlaybackSession.GetOutputDegradationPolicyState%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__

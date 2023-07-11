@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Calls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PhoneCallManager.IsCallActive is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PhoneCallManager.IsCallActive");
+				throw new global::System.NotImplementedException("The member bool PhoneCallManager.IsCallActive is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PhoneCallManager.IsCallActive");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.ApplicationModel.Calls
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PhoneCallManager.IsCallIncoming is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PhoneCallManager.IsCallIncoming");
+				throw new global::System.NotImplementedException("The member bool PhoneCallManager.IsCallIncoming is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PhoneCallManager.IsCallIncoming");
 			}
 		}
 		#endif
@@ -42,7 +42,7 @@ namespace Windows.ApplicationModel.Calls
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.ApplicationModel.Calls.PhoneCallStore> RequestStoreAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PhoneCallStore> PhoneCallManager.RequestStoreAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPhoneCallStore%3E%20PhoneCallManager.RequestStoreAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PhoneCallStore> PhoneCallManager.RequestStoreAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPhoneCallStore%3E%20PhoneCallManager.RequestStoreAsync%28%29");
 		}
 		#endif
 		#if false || false || IS_UNIT_TESTS || false || __SKIA__ || __NETSTD_REFERENCE__ || false

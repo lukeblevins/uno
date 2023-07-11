@@ -14,7 +14,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.Active is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.Active");
+				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.Active is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.Active");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.Available is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.Available");
+				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.Available is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.Available");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<PerceptionVideoProfile> PerceptionInfraredFrameSource.AvailableVideoProfiles is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CPerceptionVideoProfile%3E%20PerceptionInfraredFrameSource.AvailableVideoProfiles");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<PerceptionVideoProfile> PerceptionInfraredFrameSource.AvailableVideoProfiles is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CPerceptionVideoProfile%3E%20PerceptionInfraredFrameSource.AvailableVideoProfiles");
 			}
 		}
 		#endif
@@ -44,7 +44,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CameraIntrinsics PerceptionInfraredFrameSource.CameraIntrinsics is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CameraIntrinsics%20PerceptionInfraredFrameSource.CameraIntrinsics");
+				throw new global::System.NotImplementedException("The member CameraIntrinsics PerceptionInfraredFrameSource.CameraIntrinsics is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CameraIntrinsics%20PerceptionInfraredFrameSource.CameraIntrinsics");
 			}
 		}
 		#endif
@@ -54,7 +54,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DeviceKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PerceptionInfraredFrameSource.DeviceKind");
+				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DeviceKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PerceptionInfraredFrameSource.DeviceKind");
 			}
 		}
 		#endif
@@ -64,7 +64,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DisplayName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PerceptionInfraredFrameSource.DisplayName");
+				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DisplayName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PerceptionInfraredFrameSource.DisplayName");
 			}
 		}
 		#endif
@@ -74,7 +74,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PerceptionInfraredFrameSource.Id");
+				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.Id is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PerceptionInfraredFrameSource.Id");
 			}
 		}
 		#endif
@@ -84,7 +84,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.IsControlled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.IsControlled");
+				throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.IsControlled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.IsControlled");
 			}
 		}
 		#endif
@@ -94,7 +94,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyDictionary<string, object> PerceptionInfraredFrameSource.Properties is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyDictionary%3Cstring%2C%20object%3E%20PerceptionInfraredFrameSource.Properties");
+				throw new global::System.NotImplementedException("The member IReadOnlyDictionary<string, object> PerceptionInfraredFrameSource.Properties is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyDictionary%3Cstring%2C%20object%3E%20PerceptionInfraredFrameSource.Properties");
 			}
 		}
 		#endif
@@ -104,7 +104,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<PerceptionVideoProfile> PerceptionInfraredFrameSource.SupportedVideoProfiles is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CPerceptionVideoProfile%3E%20PerceptionInfraredFrameSource.SupportedVideoProfiles");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<PerceptionVideoProfile> PerceptionInfraredFrameSource.SupportedVideoProfiles is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CPerceptionVideoProfile%3E%20PerceptionInfraredFrameSource.SupportedVideoProfiles");
 			}
 		}
 		#endif
@@ -114,7 +114,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member PerceptionVideoProfile PerceptionInfraredFrameSource.VideoProfile is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PerceptionVideoProfile%20PerceptionInfraredFrameSource.VideoProfile");
+				throw new global::System.NotImplementedException("The member PerceptionVideoProfile PerceptionInfraredFrameSource.VideoProfile is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PerceptionVideoProfile%20PerceptionInfraredFrameSource.VideoProfile");
 			}
 		}
 		#endif
@@ -124,7 +124,7 @@ namespace Windows.Devices.Perception
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DeviceId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20PerceptionInfraredFrameSource.DeviceId");
+				throw new global::System.NotImplementedException("The member string PerceptionInfraredFrameSource.DeviceId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20PerceptionInfraredFrameSource.DeviceId");
 			}
 		}
 		#endif
@@ -153,56 +153,56 @@ namespace Windows.Devices.Perception
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Devices.Perception.PerceptionControlSession AcquireControlSession()
 		{
-			throw new global::System.NotImplementedException("The member PerceptionControlSession PerceptionInfraredFrameSource.AcquireControlSession() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PerceptionControlSession%20PerceptionInfraredFrameSource.AcquireControlSession%28%29");
+			throw new global::System.NotImplementedException("The member PerceptionControlSession PerceptionInfraredFrameSource.AcquireControlSession() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PerceptionControlSession%20PerceptionInfraredFrameSource.AcquireControlSession%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  bool CanControlIndependentlyFrom( string targetId)
 		{
-			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.CanControlIndependentlyFrom(string targetId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.CanControlIndependentlyFrom%28string%20targetId%29");
+			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.CanControlIndependentlyFrom(string targetId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.CanControlIndependentlyFrom%28string%20targetId%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  bool IsCorrelatedWith( string targetId)
 		{
-			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.IsCorrelatedWith(string targetId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.IsCorrelatedWith%28string%20targetId%29");
+			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.IsCorrelatedWith(string targetId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.IsCorrelatedWith%28string%20targetId%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  bool TryGetTransformTo( string targetId, out global::System.Numerics.Matrix4x4 result)
 		{
-			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.TryGetTransformTo(string targetId, out Matrix4x4 result) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20PerceptionInfraredFrameSource.TryGetTransformTo%28string%20targetId%2C%20out%20Matrix4x4%20result%29");
+			throw new global::System.NotImplementedException("The member bool PerceptionInfraredFrameSource.TryGetTransformTo(string targetId, out Matrix4x4 result) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20PerceptionInfraredFrameSource.TryGetTransformTo%28string%20targetId%2C%20out%20Matrix4x4%20result%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Perception.PerceptionDepthCorrelatedCameraIntrinsics> TryGetDepthCorrelatedCameraIntrinsicsAsync( global::Windows.Devices.Perception.PerceptionDepthFrameSource target)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionDepthCorrelatedCameraIntrinsics> PerceptionInfraredFrameSource.TryGetDepthCorrelatedCameraIntrinsicsAsync(PerceptionDepthFrameSource target) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPerceptionDepthCorrelatedCameraIntrinsics%3E%20PerceptionInfraredFrameSource.TryGetDepthCorrelatedCameraIntrinsicsAsync%28PerceptionDepthFrameSource%20target%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionDepthCorrelatedCameraIntrinsics> PerceptionInfraredFrameSource.TryGetDepthCorrelatedCameraIntrinsicsAsync(PerceptionDepthFrameSource target) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPerceptionDepthCorrelatedCameraIntrinsics%3E%20PerceptionInfraredFrameSource.TryGetDepthCorrelatedCameraIntrinsicsAsync%28PerceptionDepthFrameSource%20target%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Perception.PerceptionDepthCorrelatedCoordinateMapper> TryGetDepthCorrelatedCoordinateMapperAsync( string targetId,  global::Windows.Devices.Perception.PerceptionDepthFrameSource depthFrameSourceToMapWith)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionDepthCorrelatedCoordinateMapper> PerceptionInfraredFrameSource.TryGetDepthCorrelatedCoordinateMapperAsync(string targetId, PerceptionDepthFrameSource depthFrameSourceToMapWith) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPerceptionDepthCorrelatedCoordinateMapper%3E%20PerceptionInfraredFrameSource.TryGetDepthCorrelatedCoordinateMapperAsync%28string%20targetId%2C%20PerceptionDepthFrameSource%20depthFrameSourceToMapWith%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionDepthCorrelatedCoordinateMapper> PerceptionInfraredFrameSource.TryGetDepthCorrelatedCoordinateMapperAsync(string targetId, PerceptionDepthFrameSource depthFrameSourceToMapWith) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPerceptionDepthCorrelatedCoordinateMapper%3E%20PerceptionInfraredFrameSource.TryGetDepthCorrelatedCoordinateMapperAsync%28string%20targetId%2C%20PerceptionDepthFrameSource%20depthFrameSourceToMapWith%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Perception.PerceptionFrameSourcePropertyChangeResult> TrySetVideoProfileAsync( global::Windows.Devices.Perception.PerceptionControlSession controlSession,  global::Windows.Devices.Perception.PerceptionVideoProfile profile)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionFrameSourcePropertyChangeResult> PerceptionInfraredFrameSource.TrySetVideoProfileAsync(PerceptionControlSession controlSession, PerceptionVideoProfile profile) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPerceptionFrameSourcePropertyChangeResult%3E%20PerceptionInfraredFrameSource.TrySetVideoProfileAsync%28PerceptionControlSession%20controlSession%2C%20PerceptionVideoProfile%20profile%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionFrameSourcePropertyChangeResult> PerceptionInfraredFrameSource.TrySetVideoProfileAsync(PerceptionControlSession controlSession, PerceptionVideoProfile profile) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPerceptionFrameSourcePropertyChangeResult%3E%20PerceptionInfraredFrameSource.TrySetVideoProfileAsync%28PerceptionControlSession%20controlSession%2C%20PerceptionVideoProfile%20profile%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Devices.Perception.PerceptionInfraredFrameReader OpenReader()
 		{
-			throw new global::System.NotImplementedException("The member PerceptionInfraredFrameReader PerceptionInfraredFrameSource.OpenReader() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PerceptionInfraredFrameReader%20PerceptionInfraredFrameSource.OpenReader%28%29");
+			throw new global::System.NotImplementedException("The member PerceptionInfraredFrameReader PerceptionInfraredFrameSource.OpenReader() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PerceptionInfraredFrameReader%20PerceptionInfraredFrameSource.OpenReader%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Devices.Perception.PerceptionInfraredFrameSource.DeviceId.get
@@ -210,28 +210,28 @@ namespace Windows.Devices.Perception
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Devices.Perception.PerceptionInfraredFrameSourceWatcher CreateWatcher()
 		{
-			throw new global::System.NotImplementedException("The member PerceptionInfraredFrameSourceWatcher PerceptionInfraredFrameSource.CreateWatcher() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=PerceptionInfraredFrameSourceWatcher%20PerceptionInfraredFrameSource.CreateWatcher%28%29");
+			throw new global::System.NotImplementedException("The member PerceptionInfraredFrameSourceWatcher PerceptionInfraredFrameSource.CreateWatcher() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=PerceptionInfraredFrameSourceWatcher%20PerceptionInfraredFrameSource.CreateWatcher%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::System.Collections.Generic.IReadOnlyList<global::Windows.Devices.Perception.PerceptionInfraredFrameSource>> FindAllAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<IReadOnlyList<PerceptionInfraredFrameSource>> PerceptionInfraredFrameSource.FindAllAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CIReadOnlyList%3CPerceptionInfraredFrameSource%3E%3E%20PerceptionInfraredFrameSource.FindAllAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<IReadOnlyList<PerceptionInfraredFrameSource>> PerceptionInfraredFrameSource.FindAllAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CIReadOnlyList%3CPerceptionInfraredFrameSource%3E%3E%20PerceptionInfraredFrameSource.FindAllAsync%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Perception.PerceptionInfraredFrameSource> FromIdAsync( string id)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionInfraredFrameSource> PerceptionInfraredFrameSource.FromIdAsync(string id) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPerceptionInfraredFrameSource%3E%20PerceptionInfraredFrameSource.FromIdAsync%28string%20id%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionInfraredFrameSource> PerceptionInfraredFrameSource.FromIdAsync(string id) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPerceptionInfraredFrameSource%3E%20PerceptionInfraredFrameSource.FromIdAsync%28string%20id%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Perception.PerceptionFrameSourceAccessStatus> RequestAccessAsync()
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionFrameSourceAccessStatus> PerceptionInfraredFrameSource.RequestAccessAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CPerceptionFrameSourceAccessStatus%3E%20PerceptionInfraredFrameSource.RequestAccessAsync%28%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<PerceptionFrameSourceAccessStatus> PerceptionInfraredFrameSource.RequestAccessAsync() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CPerceptionFrameSourceAccessStatus%3E%20PerceptionInfraredFrameSource.RequestAccessAsync%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__

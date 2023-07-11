@@ -13,7 +13,7 @@ namespace Windows.Media.Editing
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IVideoCompositorDefinition MediaOverlayLayer.CustomCompositorDefinition is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IVideoCompositorDefinition%20MediaOverlayLayer.CustomCompositorDefinition");
+				throw new global::System.NotImplementedException("The member IVideoCompositorDefinition MediaOverlayLayer.CustomCompositorDefinition is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IVideoCompositorDefinition%20MediaOverlayLayer.CustomCompositorDefinition");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Media.Editing
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IList<MediaOverlay> MediaOverlayLayer.Overlays is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IList%3CMediaOverlay%3E%20MediaOverlayLayer.Overlays");
+				throw new global::System.NotImplementedException("The member IList<MediaOverlay> MediaOverlayLayer.Overlays is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IList%3CMediaOverlay%3E%20MediaOverlayLayer.Overlays");
 			}
 		}
 		#endif
@@ -47,7 +47,7 @@ namespace Windows.Media.Editing
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Media.Editing.MediaOverlayLayer Clone()
 		{
-			throw new global::System.NotImplementedException("The member MediaOverlayLayer MediaOverlayLayer.Clone() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=MediaOverlayLayer%20MediaOverlayLayer.Clone%28%29");
+			throw new global::System.NotImplementedException("The member MediaOverlayLayer MediaOverlayLayer.Clone() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=MediaOverlayLayer%20MediaOverlayLayer.Clone%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Media.Editing.MediaOverlayLayer.Overlays.get

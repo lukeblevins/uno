@@ -13,7 +13,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxAttachmentCount is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.MaxAttachmentCount");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxAttachmentCount is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.MaxAttachmentCount");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxFileSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.MaxFileSizeInKilobytes");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxFileSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.MaxFileSizeInKilobytes");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxGroupMessageSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.MaxGroupMessageSizeInKilobytes");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxGroupMessageSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.MaxGroupMessageSizeInKilobytes");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxMessageSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.MaxMessageSizeInKilobytes");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxMessageSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.MaxMessageSizeInKilobytes");
 			}
 		}
 		#endif
@@ -53,7 +53,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxRecipientCount is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.MaxRecipientCount");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.MaxRecipientCount is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.MaxRecipientCount");
 			}
 		}
 		#endif
@@ -63,7 +63,7 @@ namespace Windows.ApplicationModel.Chat
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.WarningFileSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20RcsTransportConfiguration.WarningFileSizeInKilobytes");
+				throw new global::System.NotImplementedException("The member int RcsTransportConfiguration.WarningFileSizeInKilobytes is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20RcsTransportConfiguration.WarningFileSizeInKilobytes");
 			}
 		}
 		#endif

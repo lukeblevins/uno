@@ -14,7 +14,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member AllJoynAuthenticationMechanism AllJoynAuthenticationCompleteEventArgs.AuthenticationMechanism is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=AllJoynAuthenticationMechanism%20AllJoynAuthenticationCompleteEventArgs.AuthenticationMechanism");
+				throw new global::System.NotImplementedException("The member AllJoynAuthenticationMechanism AllJoynAuthenticationCompleteEventArgs.AuthenticationMechanism is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=AllJoynAuthenticationMechanism%20AllJoynAuthenticationCompleteEventArgs.AuthenticationMechanism");
 			}
 		}
 		#endif
@@ -24,7 +24,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string AllJoynAuthenticationCompleteEventArgs.PeerUniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20AllJoynAuthenticationCompleteEventArgs.PeerUniqueName");
+				throw new global::System.NotImplementedException("The member string AllJoynAuthenticationCompleteEventArgs.PeerUniqueName is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20AllJoynAuthenticationCompleteEventArgs.PeerUniqueName");
 			}
 		}
 		#endif
@@ -34,7 +34,7 @@ namespace Windows.Devices.AllJoyn
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool AllJoynAuthenticationCompleteEventArgs.Succeeded is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20AllJoynAuthenticationCompleteEventArgs.Succeeded");
+				throw new global::System.NotImplementedException("The member bool AllJoynAuthenticationCompleteEventArgs.Succeeded is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20AllJoynAuthenticationCompleteEventArgs.Succeeded");
 			}
 		}
 		#endif

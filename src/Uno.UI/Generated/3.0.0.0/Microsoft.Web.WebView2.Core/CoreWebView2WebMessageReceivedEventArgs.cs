@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2WebMessageReceivedEventArgs.Source is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2WebMessageReceivedEventArgs.Source");
+				throw new global::System.NotImplementedException("The member string CoreWebView2WebMessageReceivedEventArgs.Source is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2WebMessageReceivedEventArgs.Source");
 			}
 		}
 		#endif

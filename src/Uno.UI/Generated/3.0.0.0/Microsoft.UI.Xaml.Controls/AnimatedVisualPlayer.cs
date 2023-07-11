@@ -5,7 +5,7 @@ namespace Microsoft.UI.Xaml.Controls
 	#if false || false || false || false || false || false || false
 	[global::Uno.NotImplemented]
 	#endif
-	public  partial class AnimatedVisualPlayer : global::Windows.UI.Xaml.FrameworkElement
+	public  partial class AnimatedVisualPlayer : global::Microsoft.UI.Xaml.FrameworkElement
 	{
 		// Skipping already declared property Stretch
 		// Skipping already declared property Source
@@ -27,11 +27,11 @@ namespace Microsoft.UI.Xaml.Controls
 		// Skipping already declared property IsPlaying
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
-		public  global::Windows.UI.Composition.CompositionObject ProgressObject
+		public  global::Microsoft.UI.Composition.CompositionObject ProgressObject
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CompositionObject AnimatedVisualPlayer.ProgressObject is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CompositionObject%20AnimatedVisualPlayer.ProgressObject");
+				throw new global::System.NotImplementedException("The member CompositionObject AnimatedVisualPlayer.ProgressObject is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CompositionObject%20AnimatedVisualPlayer.ProgressObject");
 			}
 		}
 		#endif
@@ -52,11 +52,11 @@ namespace Microsoft.UI.Xaml.Controls
 		// Skipping already declared property AutoPlayProperty
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
-		public static global::Windows.UI.Xaml.DependencyProperty DiagnosticsProperty { get; } = 
-		Windows.UI.Xaml.DependencyProperty.Register(
+		public static global::Microsoft.UI.Xaml.DependencyProperty DiagnosticsProperty { get; } = 
+		Microsoft.UI.Xaml.DependencyProperty.Register(
 			nameof(Diagnostics), typeof(object), 
 			typeof(global::Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer), 
-			new Windows.UI.Xaml.FrameworkPropertyMetadata(default(object)));
+			new Microsoft.UI.Xaml.FrameworkPropertyMetadata(default(object)));
 		#endif
 		// Skipping already declared property DurationProperty
 		// Skipping already declared property FallbackContentProperty
@@ -67,11 +67,11 @@ namespace Microsoft.UI.Xaml.Controls
 		// Skipping already declared property StretchProperty
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
-		public static global::Windows.UI.Xaml.DependencyProperty AnimationOptimizationProperty { get; } = 
-		Windows.UI.Xaml.DependencyProperty.Register(
+		public static global::Microsoft.UI.Xaml.DependencyProperty AnimationOptimizationProperty { get; } = 
+		Microsoft.UI.Xaml.DependencyProperty.Register(
 			nameof(AnimationOptimization), typeof(global::Microsoft.UI.Xaml.Controls.PlayerAnimationOptimization), 
 			typeof(global::Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer), 
-			new Windows.UI.Xaml.FrameworkPropertyMetadata(default(global::Microsoft.UI.Xaml.Controls.PlayerAnimationOptimization)));
+			new Microsoft.UI.Xaml.FrameworkPropertyMetadata(default(global::Microsoft.UI.Xaml.Controls.PlayerAnimationOptimization)));
 		#endif
 		// Skipping already declared method Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer.AnimatedVisualPlayer()
 		// Forced skipping of method Microsoft.UI.Xaml.Controls.AnimatedVisualPlayer.AnimatedVisualPlayer()

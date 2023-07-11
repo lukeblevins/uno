@@ -13,7 +13,7 @@ namespace Windows.Devices.Midi
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string MidiOutPort.DeviceId is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20MidiOutPort.DeviceId");
+				throw new global::System.NotImplementedException("The member string MidiOutPort.DeviceId is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20MidiOutPort.DeviceId");
 			}
 		}
 		#endif
@@ -43,14 +43,14 @@ namespace Windows.Devices.Midi
 		[global::Uno.NotImplemented("IS_UNIT_TESTS", "__SKIA__", "__NETSTD_REFERENCE__")]
 		public static global::Windows.Foundation.IAsyncOperation<global::Windows.Devices.Midi.IMidiOutPort> FromIdAsync( string deviceId)
 		{
-			throw new global::System.NotImplementedException("The member IAsyncOperation<IMidiOutPort> MidiOutPort.FromIdAsync(string deviceId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IAsyncOperation%3CIMidiOutPort%3E%20MidiOutPort.FromIdAsync%28string%20deviceId%29");
+			throw new global::System.NotImplementedException("The member IAsyncOperation<IMidiOutPort> MidiOutPort.FromIdAsync(string deviceId) is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IAsyncOperation%3CIMidiOutPort%3E%20MidiOutPort.FromIdAsync%28string%20deviceId%29");
 		}
 		#endif
 		#if false || false || IS_UNIT_TESTS || false || __SKIA__ || __NETSTD_REFERENCE__ || false
 		[global::Uno.NotImplemented("IS_UNIT_TESTS", "__SKIA__", "__NETSTD_REFERENCE__")]
 		public static string GetDeviceSelector()
 		{
-			throw new global::System.NotImplementedException("The member string MidiOutPort.GetDeviceSelector() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20MidiOutPort.GetDeviceSelector%28%29");
+			throw new global::System.NotImplementedException("The member string MidiOutPort.GetDeviceSelector() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20MidiOutPort.GetDeviceSelector%28%29");
 		}
 		#endif
 		// Processing: Windows.Devices.Midi.IMidiOutPort

@@ -13,7 +13,7 @@ namespace Windows.Media.Effects
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::System.Collections.Generic.IReadOnlyList<global::Windows.Media.Effects.AudioEffect> GetAudioCaptureEffects()
 		{
-			throw new global::System.NotImplementedException("The member IReadOnlyList<AudioEffect> AudioCaptureEffectsManager.GetAudioCaptureEffects() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CAudioEffect%3E%20AudioCaptureEffectsManager.GetAudioCaptureEffects%28%29");
+			throw new global::System.NotImplementedException("The member IReadOnlyList<AudioEffect> AudioCaptureEffectsManager.GetAudioCaptureEffects() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CAudioEffect%3E%20AudioCaptureEffectsManager.GetAudioCaptureEffects%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__

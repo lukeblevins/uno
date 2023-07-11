@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2AcceleratorKeyPressedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2AcceleratorKeyPressedEventArgs.Handled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2AcceleratorKeyPressedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2AcceleratorKeyPressedEventArgs.Handled");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2KeyEventKind CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2KeyEventKind%20CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventKind");
+				throw new global::System.NotImplementedException("The member CoreWebView2KeyEventKind CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventKind is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2KeyEventKind%20CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventKind");
 			}
 		}
 		#endif
@@ -37,7 +37,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventLParam is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventLParam");
+				throw new global::System.NotImplementedException("The member int CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventLParam is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20CoreWebView2AcceleratorKeyPressedEventArgs.KeyEventLParam");
 			}
 		}
 		#endif
@@ -47,7 +47,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2PhysicalKeyStatus CoreWebView2AcceleratorKeyPressedEventArgs.PhysicalKeyStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2PhysicalKeyStatus%20CoreWebView2AcceleratorKeyPressedEventArgs.PhysicalKeyStatus");
+				throw new global::System.NotImplementedException("The member CoreWebView2PhysicalKeyStatus CoreWebView2AcceleratorKeyPressedEventArgs.PhysicalKeyStatus is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2PhysicalKeyStatus%20CoreWebView2AcceleratorKeyPressedEventArgs.PhysicalKeyStatus");
 			}
 		}
 		#endif
@@ -57,7 +57,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member uint CoreWebView2AcceleratorKeyPressedEventArgs.VirtualKey is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=uint%20CoreWebView2AcceleratorKeyPressedEventArgs.VirtualKey");
+				throw new global::System.NotImplementedException("The member uint CoreWebView2AcceleratorKeyPressedEventArgs.VirtualKey is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=uint%20CoreWebView2AcceleratorKeyPressedEventArgs.VirtualKey");
 			}
 		}
 		#endif

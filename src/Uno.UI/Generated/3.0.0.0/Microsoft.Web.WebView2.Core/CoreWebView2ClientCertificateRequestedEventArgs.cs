@@ -13,7 +13,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member CoreWebView2ClientCertificate CoreWebView2ClientCertificateRequestedEventArgs.SelectedCertificate is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=CoreWebView2ClientCertificate%20CoreWebView2ClientCertificateRequestedEventArgs.SelectedCertificate");
+				throw new global::System.NotImplementedException("The member CoreWebView2ClientCertificate CoreWebView2ClientCertificateRequestedEventArgs.SelectedCertificate is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=CoreWebView2ClientCertificate%20CoreWebView2ClientCertificateRequestedEventArgs.SelectedCertificate");
 			}
 			set
 			{
@@ -27,7 +27,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.Handled");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.Handled is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.Handled");
 			}
 			set
 			{
@@ -41,7 +41,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.Cancel is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.Cancel");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.Cancel is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.Cancel");
 			}
 			set
 			{
@@ -55,7 +55,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<string> CoreWebView2ClientCertificateRequestedEventArgs.AllowedCertificateAuthorities is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3Cstring%3E%20CoreWebView2ClientCertificateRequestedEventArgs.AllowedCertificateAuthorities");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<string> CoreWebView2ClientCertificateRequestedEventArgs.AllowedCertificateAuthorities is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3Cstring%3E%20CoreWebView2ClientCertificateRequestedEventArgs.AllowedCertificateAuthorities");
 			}
 		}
 		#endif
@@ -65,7 +65,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member string CoreWebView2ClientCertificateRequestedEventArgs.Host is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=string%20CoreWebView2ClientCertificateRequestedEventArgs.Host");
+				throw new global::System.NotImplementedException("The member string CoreWebView2ClientCertificateRequestedEventArgs.Host is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=string%20CoreWebView2ClientCertificateRequestedEventArgs.Host");
 			}
 		}
 		#endif
@@ -75,7 +75,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.IsProxy is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.IsProxy");
+				throw new global::System.NotImplementedException("The member bool CoreWebView2ClientCertificateRequestedEventArgs.IsProxy is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20CoreWebView2ClientCertificateRequestedEventArgs.IsProxy");
 			}
 		}
 		#endif
@@ -85,7 +85,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IReadOnlyList<CoreWebView2ClientCertificate> CoreWebView2ClientCertificateRequestedEventArgs.MutuallyTrustedCertificates is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IReadOnlyList%3CCoreWebView2ClientCertificate%3E%20CoreWebView2ClientCertificateRequestedEventArgs.MutuallyTrustedCertificates");
+				throw new global::System.NotImplementedException("The member IReadOnlyList<CoreWebView2ClientCertificate> CoreWebView2ClientCertificateRequestedEventArgs.MutuallyTrustedCertificates is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IReadOnlyList%3CCoreWebView2ClientCertificate%3E%20CoreWebView2ClientCertificateRequestedEventArgs.MutuallyTrustedCertificates");
 			}
 		}
 		#endif
@@ -95,7 +95,7 @@ namespace Microsoft.Web.WebView2.Core
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member int CoreWebView2ClientCertificateRequestedEventArgs.Port is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=int%20CoreWebView2ClientCertificateRequestedEventArgs.Port");
+				throw new global::System.NotImplementedException("The member int CoreWebView2ClientCertificateRequestedEventArgs.Port is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=int%20CoreWebView2ClientCertificateRequestedEventArgs.Port");
 			}
 		}
 		#endif
@@ -114,7 +114,7 @@ namespace Microsoft.Web.WebView2.Core
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public  global::Windows.Foundation.Deferral GetDeferral()
 		{
-			throw new global::System.NotImplementedException("The member Deferral CoreWebView2ClientCertificateRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=Deferral%20CoreWebView2ClientCertificateRequestedEventArgs.GetDeferral%28%29");
+			throw new global::System.NotImplementedException("The member Deferral CoreWebView2ClientCertificateRequestedEventArgs.GetDeferral() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=Deferral%20CoreWebView2ClientCertificateRequestedEventArgs.GetDeferral%28%29");
 		}
 		#endif
 	}

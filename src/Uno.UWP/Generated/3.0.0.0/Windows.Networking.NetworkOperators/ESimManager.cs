@@ -13,7 +13,7 @@ namespace Windows.Networking.NetworkOperators
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member ESimServiceInfo ESimManager.ServiceInfo is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ESimServiceInfo%20ESimManager.ServiceInfo");
+				throw new global::System.NotImplementedException("The member ESimServiceInfo ESimManager.ServiceInfo is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ESimServiceInfo%20ESimManager.ServiceInfo");
 			}
 		}
 		#endif
@@ -22,7 +22,7 @@ namespace Windows.Networking.NetworkOperators
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Networking.NetworkOperators.ESimWatcher TryCreateESimWatcher()
 		{
-			throw new global::System.NotImplementedException("The member ESimWatcher ESimManager.TryCreateESimWatcher() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ESimWatcher%20ESimManager.TryCreateESimWatcher%28%29");
+			throw new global::System.NotImplementedException("The member ESimWatcher ESimManager.TryCreateESimWatcher() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ESimWatcher%20ESimManager.TryCreateESimWatcher%28%29");
 		}
 		#endif
 		// Forced skipping of method Windows.Networking.NetworkOperators.ESimManager.ServiceInfoChanged.add

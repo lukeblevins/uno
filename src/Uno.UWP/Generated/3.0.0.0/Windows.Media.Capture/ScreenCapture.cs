@@ -13,7 +13,7 @@ namespace Windows.Media.Capture
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IMediaSource ScreenCapture.AudioSource is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IMediaSource%20ScreenCapture.AudioSource");
+				throw new global::System.NotImplementedException("The member IMediaSource ScreenCapture.AudioSource is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IMediaSource%20ScreenCapture.AudioSource");
 			}
 		}
 		#endif
@@ -23,7 +23,7 @@ namespace Windows.Media.Capture
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool ScreenCapture.IsAudioSuspended is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20ScreenCapture.IsAudioSuspended");
+				throw new global::System.NotImplementedException("The member bool ScreenCapture.IsAudioSuspended is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20ScreenCapture.IsAudioSuspended");
 			}
 		}
 		#endif
@@ -33,7 +33,7 @@ namespace Windows.Media.Capture
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member bool ScreenCapture.IsVideoSuspended is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=bool%20ScreenCapture.IsVideoSuspended");
+				throw new global::System.NotImplementedException("The member bool ScreenCapture.IsVideoSuspended is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=bool%20ScreenCapture.IsVideoSuspended");
 			}
 		}
 		#endif
@@ -43,7 +43,7 @@ namespace Windows.Media.Capture
 		{
 			get
 			{
-				throw new global::System.NotImplementedException("The member IMediaSource ScreenCapture.VideoSource is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=IMediaSource%20ScreenCapture.VideoSource");
+				throw new global::System.NotImplementedException("The member IMediaSource ScreenCapture.VideoSource is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=IMediaSource%20ScreenCapture.VideoSource");
 			}
 		}
 		#endif
@@ -57,7 +57,7 @@ namespace Windows.Media.Capture
 		[global::Uno.NotImplemented("__ANDROID__", "__IOS__", "IS_UNIT_TESTS", "__WASM__", "__SKIA__", "__NETSTD_REFERENCE__", "__MACOS__")]
 		public static global::Windows.Media.Capture.ScreenCapture GetForCurrentView()
 		{
-			throw new global::System.NotImplementedException("The member ScreenCapture ScreenCapture.GetForCurrentView() is not implemented. For more information, visit https://aka.platform.uno/notimplemented?m=ScreenCapture%20ScreenCapture.GetForCurrentView%28%29");
+			throw new global::System.NotImplementedException("The member ScreenCapture ScreenCapture.GetForCurrentView() is not implemented. For more information, visit https://aka.platform.uno/notimplemented#m=ScreenCapture%20ScreenCapture.GetForCurrentView%28%29");
 		}
 		#endif
 		#if __ANDROID__ || __IOS__ || IS_UNIT_TESTS || __WASM__ || __SKIA__ || __NETSTD_REFERENCE__ || __MACOS__
